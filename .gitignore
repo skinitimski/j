@@ -1,0 +1,15 @@
+.pytest_cache/
+venv/
+*.pyc
+*.swp
+*.swo
+report.xml
+index.html
+__pycache__/
+Pipfile.lock
+build/
+dist/
+*.egg-info
+.idea/
+.coverage
+coverage/
