@@ -64,21 +64,6 @@ td.jeopardy
 
 span { font-size: 24pt; font-family: Monospace; color: #fff }
 
-span.serif { font-size: 10pt; font-family: Courier New; color: #000000 }
-
-span.red    { font-size: inherit; font-family: inherit; color: #f00000; font-weight: inherit }
-span.redder { font-size: inherit; font-family: inherit; color: #f00000; font-weight: bolder }
-
-span.green   { font-size: inherit; font-family: inherit; color: #00b000; font-weight: inherit }
-span.greener { font-size: inherit; font-family: inherit; color: #00b000; font-weight: bolder }
-
-span.blue  { font-size: inherit; font-family: inherit; color: #0000f0; font-weight: inherit }
-span.bluer { font-size: inherit; font-family: inherit; color: #0000f0; font-weight: bolder }
-
-span.transparent { font-size: 10pt; font-family: Courier; color: #999999 }
-span.weak { font-size: 10pt; font-family: Courier; color: #999999 }
-
-
 p { font-size: 10pt; font-family: Courier; color: #000000 }
 
 p.serif { font-size: 10pt; font-family: Courier New; color: #000000 }
@@ -111,14 +96,11 @@ ul.nolabel, li.nolabel
 
 
 
-a { font-size: 10pt; font-family: Courier }
+a { font-size: 24pt; font-family: Monospace; color: hotpink }
 
-a.answer   { font-size: 24pt; font-family: Monospace; color: hotpink; }
-a.question { font-size: 24pt; font-family: Monospace; color: hotpink; }
+a.answer:visited { font-size: 24pt; font-family: Monospace; color: black; }
 
-a.small { font-size: 10pt; font-family: Courier }
-
-a.large { font-size: 12pt; font-family: Courier }
+a.question { }
 
 
 h1 { font-size: 20pt; font-family: Courier; color: #fff }
