@@ -11,6 +11,9 @@ j = {editable = true,path = "."}
 
 [packages]
 j = {path = ".",editable = true}
+jinja2 = "*"
+pyyaml = "*"
+munch = "*"
 
 [pipenv]
 allow_prereleases = true
