@@ -23,6 +23,7 @@ END            = 'end.html'
 
 JINJA_ENV = Environment(loader=PackageLoader('j'))
 
+
 def main():
 
     args = _parse_arguments()
