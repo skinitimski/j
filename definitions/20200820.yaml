@@ -1,12 +1,12 @@
 Final:
-  Category: Boobies
-  Answer: This seabird reportedly gets its name from its <span class="red">foolish</span> habit of landing on sailing ships filled with hungry sailors.
-  Question: What is a booby?
+  Category:
+  Answer:
+  Question:
 Rounds:
 
   - Categories:
 
-    - Name: Aminals
+    - Name: Aminals<sup>JK</sup>
       Trivia:
         - Answer: <span class="red">These marsupials</span> have fingerprints that are almost identical to those of humans.
           Question: What are <span class="red">koalas</span>?
@@ -19,7 +19,7 @@ Rounds:
         - Answer: Humans share 70% of their DNA with <span class="red">these splippery, shell-less, hermaphroditic land mollusks</span>.
           Question: What are <span class="red">slugs</span>?
 
-    - Name: 3-Somes
+    - Name: 3-Somes<sup>JK</sup>
       Trivia:
         - Answer: The origin of <span class="red">this nursery rhyme</span> about ocularly-challenged rodents can be traced back to 1609.
           Question: What is <span class="red">3 Blind Mice</span>?
@@ -32,7 +32,7 @@ Rounds:
         - Answer: <span class="red">This American vaudeville comedy team</span> performed physical farce and slapstick from 1922 until 1970.
           Question: Who are the <span class="red">3 Stooges</span>?
 
-    - Name: Word Porn
+    - Name: Word Porn<sup>JK</sup>
       Trivia:
         - Answer: The word for <span class="red">this pear-shaped fruit</span> with a rough leathery skin comes from the Aztec word "ahuacatl" which means testicle, referring both to the fruit’s shape and its aphrodisiacal qualitites.
           Question: What is the <span class="red">avocado</span>?
@@ -45,7 +45,7 @@ Rounds:
         - Answer: This word for <span class="red">this complex programmable machine</span> comes from a Czech word meaning "forced labor".
           Question: What is <span class="red">robot</span>?
 
-    - Name: Friangles
+    - Name: Friangles<sup>TK</sup>
       Trivia:
         - Answer: This class of triangle has exactly one 90-degree angle.
           Question: What is a <span class="red">right</span> triangle?
@@ -59,66 +59,22 @@ Rounds:
           Question: What is a <span class="red">scalene</span> triangle?
 
   - Categories:
-    - Name: Hot Stuff
+
+    - Name: Five of a Kind<sup>TK</sup>
       Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is Bernie Sanders?
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
-    - Name: Other Stuff
-      Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is Bernie Sanders?
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
-    - Name: More Things
-      Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is Bernie Sanders?
-          DailyDouble: True
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
-    - Name: Harder Penises
-      Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is Bernie Sanders?
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-          DailyDouble: False
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
-    - Name: The Letter 'T'
-      Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is <span class="red"><strong>Bernie Sanders</strong></span>?
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
+
+        - Answer: The logo for <span class="red">these leading international sporting competitions</span> is composed of five interlocking rings colored Blue, Yellow, Black, Green, and Red.
+          Question: What are the <span class="red">Olympic Games</span>.
+
+        - Answer: Not only does <span class="red">this boy band</span> have five members (as is tradition), their name also has five letters (if you exclude the asterisk), one letter taken from each of the initial members' names.
+          Question: Who are <span class="red">*NSYNC</span>.
+
+        - Answer: A 10, Jack, Queen, King and Ace, all of the same suit, make up <span class="red">this 5-card poker hand</span>, typically the four best possible hands in poker.
+          Question: What is a <span class="red">royal flush</stop>.
+
+        - Answer: White, Blue, Black, Red, and Green are the five colors which govern the mechanics, flavors, and deckbuilding strategies of <span class="red">this trading card game</span> first published in 1993 by Wizards of the Coast.
+          Question: 'What is <span class="red">Magic: The Gathering</span>?'
+
+        - Answer: The prolongation of the phrase "five gold(en) rings" in <span class="red">this English Christmas carol</span> was added by Frederic Austin in 1909, though the verse is significantly older.
+          Question: What is <span class="red">The Twelve Days of Christmas</span>
 
