@@ -78,15 +78,13 @@ def j(definition_path, destination_path):
 
                 if trivia.DailyDouble:
 
-                    dailydouble_page = template_dailydouble.render(
+                    _render_template(
+                        join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'),
+                        template_dailydouble,
                         category_index=category_index,
                         prize=prize,
                         round_index=round_index
                     )
-
-                    with open(join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'), 'w') as f:
-
-                        f.write(dailydouble_page)
 
                 _render_template(
                     join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
