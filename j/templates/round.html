@@ -26,11 +26,8 @@
             {% set loop_prize = loop %}
             {% for category in categories %}
             <td class='jeopardy'>
-                {% if category.Trivia[loop_prize.index0].DailyDouble %}
-                $<a class="answer" href="dailydouble.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">{{ prize }}</a>
-                {% else %}
-                $<a class="answer" href="answer.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">{{ prize }}</a>
-                {% endif %}
+                {% set linkname = 'dailydouble' if category.Trivia[loop_prize.index0].DailyDouble else 'answer' %}
+                <a class="answer" href="{{ linkname }}.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">${{ prize }}</a>
             </td>
             {% endfor %}
         <tr/>
