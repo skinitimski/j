@@ -1,6 +1,6 @@
 body
 {
-    background-color: #000080
+    background-color: #000060
 }
 
 table.cell
@@ -28,7 +28,6 @@ td.cell
 table.jeopardy
 {
     font-size: 24pt;
-    font-family: Monospace;
     margin-left: auto;
     margin-right: auto;
 }
@@ -60,7 +59,7 @@ td.jeopardy
     width: 20%;
 }
 
-span { font-size: 42pt; font-family: Monospace; color: #fff }
+span { font-size: 42pt; font-family: Calibri; color: #fff }
 
 span.red { color: #f00 }
 
@@ -96,18 +95,12 @@ ul.nolabel, li.nolabel
 
 
 
-a { font-size: 36pt; font-family: Monospace; color: hotpink }
+a { font-size: 36pt; font-family: Calibri; color: hotpink }
 
 a.answer:visited { color: black; }
 
 a.flow {  }
 
-
-h1 { font-size: 20pt; font-family: Courier; color: #fff }
-
-h2 { font-size: 14pt; font-family: Courier; color: #fff }
-
-h3 { font-size: 10pt; font-family: Courier; color: #fff; font-weight: bold }
 
 
 
