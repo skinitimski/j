@@ -30,9 +30,10 @@ def main():
     j(args[KEY_DEFINITION], args[KEY_DESTINATION])
 
 
-
 def j(definition_path, destination_path):
 
+    # this will fail if the directory already exists
+    # TODO: maybe honor a --force flag?
     mkdir(destination_path)
 
     _render_template(
