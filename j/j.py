@@ -2,7 +2,7 @@ from argparse import ArgumentParser
 
 from jinja2 import Environment, PackageLoader
 
-from munch import munchify
+from munch import DefaultMunch
 
 from os import mkdir
 
@@ -14,7 +14,12 @@ from yaml import safe_load
 KEY_DEFINITION  = 'definition'
 KEY_DESTINATION = 'destination'
 
-STYLE = 'style.css'
+STYLE          = 'style.css'
+FINAL          = 'final.html'
+FINAL_CATEGORY = 'final.category.html'
+FINAL_ANSWER   = 'final.answer.html'
+FINAL_QUESTION = 'final.question.html'
+END            = 'end.html'
 
 JINJA_ENV = Environment(loader=PackageLoader('j'))
 
@@ -30,31 +35,103 @@ def j(definition_path, destination_path):
 
     mkdir(destination_path)
 
-    _copy_style(destination_path)
+    _render_template(
+        join(destination_path, STYLE),
+        JINJA_ENV.get_template(STYLE)
+    )
 
     definition = _read_definition(definition_path)
 
-    template_round    = JINJA_ENV.get_template('round.html')
-    template_answer   = JINJA_ENV.get_template('answer.html')
-    template_question = JINJA_ENV.get_template('question.html')
+    template_round       = JINJA_ENV.get_template('round.html')
+    template_dailydouble = JINJA_ENV.get_template('dailydouble.html')
+    template_answer      = JINJA_ENV.get_template('answer.html')
+    template_question    = JINJA_ENV.get_template('question.html')
 
-    for round_index, round_definition in enumerate(definition.Rounds):
+    rounds = definition.Rounds
 
-        with open(join(destination_path, f'round{round_index}.html'), 'w') as f:
+    round_count = len(rounds)
 
-            f.write(template_round.render())
+    for round_index0, round_definition in enumerate(rounds):
 
-        for category_index, category_definition in enumerate(round_definition.Categories):
+        round_index = round_index0 + 1
 
-            for prize in ['100', '200', '300', '400', '500']:
+        categories = round_definition.Categories
 
-                with open(join(destination_path, f'{category_index}.{prize}.answer.html'), 'w') as f:
+        prizes = [(p + 1) * round_index * 100 for p in range(5)]
 
-                    f.write(template_answer.render())
+        _render_template(
+            join(destination_path, f'round{round_index}.html'),
+            template_round,
+            categories=categories,
+            round_count=round_count,
+            round_index=round_index,
+            prizes=prizes
+        )
 
-                with open(join(destination_path, f'{category_index}.{prize}.question.html'), 'w') as f:
+        for category_index0, category_definition in enumerate(categories):
 
-                    f.write(template_question.render())
+            category_index = category_index0 + 1
+
+            for prize_index, prize in enumerate(prizes):
+
+                trivia = category_definition.Trivia[prize_index]
+
+                if trivia.DailyDouble:
+
+                    dailydouble_page = template_dailydouble.render(
+                        category_index=category_index,
+                        prize=prize,
+                        round_index=round_index
+                    )
+
+                    with open(join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'), 'w') as f:
+
+                        f.write(dailydouble_page)
+
+                _render_template(
+                    join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
+                    template_answer,
+                    answer=trivia.Answer,
+                    category_index=category_index,
+                    prize=prize,
+                    round_index=round_index
+                )
+
+                _render_template(
+                    join(destination_path, f'question.round{round_index}.category{category_index}.prize{prize}.html'),
+                    template_question,
+                    question=trivia.Question,
+                    round_index=round_index
+                )
+
+    _render_template(
+        join(destination_path, FINAL),
+        JINJA_ENV.get_template(FINAL),
+        round_count=round_count
+    )
+
+    _render_template(
+        join(destination_path, FINAL_CATEGORY),
+        JINJA_ENV.get_template(FINAL_CATEGORY),
+        category=definition.Final.Category
+    )
+
+    _render_template(
+        join(destination_path, FINAL_ANSWER),
+        JINJA_ENV.get_template(FINAL_ANSWER),
+        answer=definition.Final.Answer
+    )
+
+    _render_template(
+        join(destination_path, FINAL_QUESTION),
+        JINJA_ENV.get_template(FINAL_QUESTION),
+        question=definition.Final.Question
+    )
+
+    _render_template(
+        join(destination_path, END),
+        JINJA_ENV.get_template(END)
+    )
 
 
 def _parse_arguments():
@@ -69,17 +146,19 @@ def _parse_arguments():
     return args
 
 
-def _copy_style(destination_path):
-
-    with open(join(destination_path, STYLE), 'w') as f:
-
-        f.write(JINJA_ENV.get_template(STYLE).render())
-
-
 def _read_definition(definition_path):
 
     with open(definition_path) as f:
 
-        definition = munchify(safe_load(f))
+        definition = DefaultMunch.fromDict(safe_load(f), None)
 
     return definition
+
+
+def _render_template(path, template, **data):
+
+    page = template.render(**data)
+
+    with open(path, 'w') as f:
+
+        f.write(page)

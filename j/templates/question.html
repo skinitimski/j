@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>$100</title>
+    <title>Question</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script type="text/javascript" src="jquery-1.8.3.js"> </script>
@@ -8,13 +8,13 @@
 <body>
     <table class="cell" style="width: 60%">
         <tr class="cell">
-            <td width="10%" valign="middle">
-                <span>What is the question?</span>
+            <td class="cell">
+                <span>{{ question }}</span>
             </td>
         </tr>
         <tr class="cell">
-            <td width="10%" valign="middle">
-                <span style="color: hotpink">(<a href="round1.html">back</a>)</span>
+            <td class="cell">
+                <a href="round{{ round_index }}.html">Back to Round {{ round_index }}</a>
             </td>
         </tr>
     </table>

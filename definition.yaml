@@ -1,9 +1,132 @@
+Final:
+  Category: Boobies
+  Answer: This seabird reportedly gets its name from its <span class="red">foolish</span> habit of landing on sailing ships filled with hungry sailors.
+  Question: What is a booby?
 Rounds:
   - Categories:
-     - Potent Potables:
-         100:
-     - Stuff:
-     - Things:
-     - Penises:
-     - Et Cetera:
+    - Name: Potent Potables
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Stuff
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Things
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+          DailyDouble: True
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Penises
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+          DailyDouble: False
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Et Cetera
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is <span class="red"><strong>Bernie Sanders</strong></span>?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+  - Categories:
+    - Name: Hot Stuff
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Other Stuff
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: More Things
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+          DailyDouble: True
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: Harder Penises
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is Bernie Sanders?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+          DailyDouble: False
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
+    - Name: The Letter 'T'
+      Trivia:
+        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
+          Question: Who is Fela Kuti?
+        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
+          Question: Who is Bernie Worrell?
+        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
+          Question: Who is <span class="red"><strong>Bernie Sanders</strong></span>?
+        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
+          Question: Who is Fuggles N. Tetnang?
+        - Answer: This cat was named for the most common type of malt used in homebrewing.
+          Question: Who is Turo Barley?
 
