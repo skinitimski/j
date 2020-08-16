@@ -108,6 +108,7 @@ Rounds:
 
         - Answer: This 1984 film starring Molly Ringwald was the first in John Hughes' series of iconic 1980s teen movies which depicted the unfairness of having to go through puberty while attempting to graduate high school.
           Question: What is <span class="red">Sixteen Candles</span>?
+          DailyDouble: true
 
         - Answer: <span class="red">This 2005 American sex comedy film</span> features a scene where the main character, played by Steve Carell, has his chest hair removed; it required five cameras set up for the shot and Carell's chest hair was actually ripped out in the scene.
           Question: What is <span class="red">The 40-Year Old Virgin</span>?
@@ -125,7 +126,7 @@ Rounds:
           Question: What is <span class="red">"spill the beans"</span>?
 
         - Answer: <span class="red">This idiom</span>, used to refer to something or someone that one cherishes above all others, occurs in several places in the King James Bible translation from 1611 (interestingly, the idiom is very different in the original Hebrew, as the fruit used in the English translation is not native to Palestine and is rarely cultivated there).
-          Question: What is <span class="red">"apple of one's eye"</span>?
+          Question: What is <span class="red">"apple of my eye"</span>?
 
         - Answer: By the late 1500s, <span class="red">this idiom</span>, alluding to the sour state of being in a brine solution, was being used in an extended figurative sense to mean a disagreeable or troubling condition; even Shakespeare uses this idiom in “The Tempest” to describe the difficult predicament Trinculo finds himself in.
           Question: What is <span class="red">"in a pickle"</span>?
