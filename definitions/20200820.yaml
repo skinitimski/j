@@ -23,20 +23,20 @@ Rounds:
       Trivia:
         - Answer: The origin of <span class="red">this nursery rhyme</span> about ocularly-challenged rodents can be traced back to 1609.
           Question: What is <span class="red">3 Blind Mice</span>?
-        - Answer: <span class="red">These foreigners</span> visited Jesus after his birth, bearing gifts of gold, frankincense and myrrh.
-          Question: Who are the <span class="red">3 wise men</span>?
+        - Answer: <span class="red">These foreigners</span> visited Jesus after his birth, bearing gifts of gold, frankincense, and myrrh.
+          Question: Who are the <span class="red">3 wise men</span> (or <span class="red">3 kings</span>)?
         - Answer:  In the original Japanese version of the anime series Yu-Gi-Oh!, the main antagonists are named Plácido, Luciano, and José in reference to <span class="red">this popular operatic singing group</span>.
           Question: Who are <span class="red">The 3 Tenors</span>?
-        - Answer: <span class="red">This novel</span> written in 1844 by French author Alexandre Dumas is classified as a swashbuckler, a genre of European adventure literature that focuses on a heroic protagonist who is skilled in swordplay, acrobatics, and chivalrous ideals.
-          Question: What is <span class="red">The 3 Muskateers</span>?
         - Answer: <span class="red">This American vaudeville comedy team</span> performed physical farce and slapstick from 1922 until 1970.
           Question: Who are the <span class="red">3 Stooges</span>?
+        - Answer: <span class="red">This novel</span> written in 1844 by French author Alexandre Dumas is classified as a swashbuckler, a genre of European adventure literature that focuses on a heroic protagonist who is skilled in swordplay, acrobatics, and chivalrous ideals.
+          Question: What is <span class="red">The 3 Muskateers</span>?
 
     - Name: Word Porn<sup>JK</sup>
       Trivia:
         - Answer: The word for <span class="red">this pear-shaped fruit</span> with a rough leathery skin comes from the Aztec word "ahuacatl" which means testicle, referring both to the fruit’s shape and its aphrodisiacal qualitites.
           Question: What is the <span class="red">avocado</span>?
-        - Answer: <span class="red">This</span> word comes from the Spanish word for "little donkey", possibly because it is a stuffed tortilla that resembles the bundles often carried by donkeys.
+        - Answer: <span class="red">This word</span> comes from the Spanish word for "little donkey", possibly because it is a stuffed tortilla that resembles the bundles often carried by donkeys.
           Question: What is <span class="red">burrito</span>?
         - Answer: <span class="red">This word</span>, meaning very and unusually large, comes from the name an elephant purchased by P.T. Barnum in 1880. By age 7, this pachyderm consumed 200 pounds of hay, one barrel of potatoes, two bushels of oats, 15 loaves of bread, a slew of onions, and several pails of water every day.
           Question: What is <span class="red">jumbo</span>?
@@ -47,16 +47,35 @@ Rounds:
 
     - Name: Friangles<sup>TK</sup>
       Trivia:
-        - Answer: This class of triangle has exactly one 90-degree angle.
+        - Answer: <span class="red">This class of triangle</span> has exactly one 90-degree angle.
           Question: What is a <span class="red">right</span> triangle?
         - Answer: More generally used for angles that are <em>less than 90 degrees</em>, <span class="red">this term</span> also refers to triangles that have only such angles.
           Question: What is <span class="red">acute</span>?
-        - Answer: <span class="red">This</span> class of triagle has exactly two <em>or</em> two or more equal sides, depending on which math book you are reading.
+        - Answer: <span class="red">This</span> class of triangle has <em>exactly two</em> OR <em>two or more</em> equal sides/angles -- depending on which math book you are reading.
           Question: What is an <span class="red">isosceles</span> triangle?
+          DailyDouble: True
         - Answer: Having all sides being equal, <span class="red">this class of triangle</span> is guaranteed to be isosceles, acute, and equiangular.
           Question: What is a <span class="red">equilateral</span> triangle?
         - Answer: Quite the opposite of equilateral, <span class="red">this class of triangle</span> has no equal sides.
           Question: What is a <span class="red">scalene</span> triangle?
+
+    - Name: Ordinal Overtures<sup>JK</sup>
+      Trivia:
+
+        - Answer: <span class="red">This 1999 American supernatural psychological thriller film</span> written and directed by M. Night Shyamalan tells the story a boy who is able to see and to talk to the dead.
+          Question: What is <span class="red">The Sixth Sense</span>?
+
+        - Answer: '<span class="red">This American horror franchise</span> about a masked killer named Jason (fun fact: Jamie’s brother was named after him) comprises twelve slasher films, a television series, novels, comic books, video games, and tie-in merchandise.'
+          Question: What is <span class="red">Friday the 13<sup>th</sup></span>?
+
+        - Answer: <span class="red">This 1947 American Christmas comedy-drama</span>, initially released as The Big Heart in the UK, is based on a story about a department store Santa Claus who claims to be the real Santa.
+          Question: What is <span class="red">Miracle on 34<sup>th</sup> Street</span>?
+
+        - Answer: 'One critic proclaimed about <span class="red">this American family drama television series</span> about Reverend Eric Camden and his family that debuted in 1996: “The sappiness and sanctimony of the characters often made the moral lessons impossible to swallow.”'
+          Question: What is <span class="red">7<sup>th</sup> Heaven</span>?
+
+        - Answer: '<span class="red">This 1997 science fiction action film</span> starring Bruce Willis that involves the survival of planet Earth against the impending attack of a malevolent cosmic entity was given this review by David Edelstein of Slate: "It may or may not be the worst movie ever made, but it is one of the most unhinged."'
+          Question: What is <span class="red">The Fifth Element</span>?
 
   - Categories:
 
@@ -64,17 +83,89 @@ Rounds:
       Trivia:
 
         - Answer: The logo for <span class="red">these leading international sporting competitions</span> is composed of five interlocking rings colored Blue, Yellow, Black, Green, and Red.
-          Question: What are the <span class="red">Olympic Games</span>.
+          Question: What are the <span class="red">Olympic Games</span>?
 
-        - Answer: Not only does <span class="red">this boy band</span> have five members (as is tradition), their name also has five letters (if you exclude the asterisk), one letter taken from each of the initial members' names.
-          Question: Who are <span class="red">*NSYNC</span>.
-
-        - Answer: A 10, Jack, Queen, King and Ace, all of the same suit, make up <span class="red">this 5-card poker hand</span>, typically the four best possible hands in poker.
-          Question: What is a <span class="red">royal flush</stop>.
+        - Answer: The prolongation of the phrase "five gold(en) rings" in <span class="red">this English Christmas carol</span> was added by Frederic Austin in 1909, though the verse is significantly older.
+          Question: What is <span class="red">"The Twelve Days of Christmas"</span>?
 
         - Answer: White, Blue, Black, Red, and Green are the five colors which govern the mechanics, flavors, and deckbuilding strategies of <span class="red">this trading card game</span> first published in 1993 by Wizards of the Coast.
           Question: 'What is <span class="red">Magic: The Gathering</span>?'
 
-        - Answer: The prolongation of the phrase "five gold(en) rings" in <span class="red">this English Christmas carol</span> was added by Frederic Austin in 1909, though the verse is significantly older.
-          Question: What is <span class="red">The Twelve Days of Christmas</span>
+        - Answer: Not only does <span class="red">this boy band</span> have five members (as is tradition), their name also has five letters (if you exclude the asterisk), one letter taken from each of the initial members' names.
+          Question: Who are <span class="red">*NSYNC</span>?
+
+        - Answer: A 10, Jack, Queen, King, and Ace, all of the same suit, make up <span class="red">this 5-card poker hand</span>, typically the best possible hand in poker.
+          Question: What is a <span class="red">royal flush</span>?
+
+    - Name: Numb3rs<sup>JK</sup>
+      Trivia:
+
+        - Answer: <span class="red">This 2001 American heist comedy film</span> and remake of the 1960 Rat Pack film of the same name, features an ensemble cast, including George Clooney, Brad Pitt, Matt Damon, Don Cheadle, Andy García, Bernie Mac, and Julia Roberts.
+          Question: What is <span class="red">Ocean's Eleven</span>?
+
+        - Answer: The dialogue between ground control and astronauts in <span class="red">this 1995 film starring Tom Hanks</span> was taken nearly verbatim from transcripts and recordings, with the exception of one of the taglines of the film, "Houston, we have a problem." According to audio of the air-to-ground communications, the actual words uttered by Jack Swigert were "Okay, Houston, we've had a problem here".
+          Question: What is <span class="red">Apollo 13</span>?
+
+        - Answer: This 1984 film starring Molly Ringwald was the first in John Hughes' series of iconic 1980s teen movies which depicted the unfairness of having to go through puberty while attempting to graduate high school.
+          Question: What is <span class="red">Sixteen Candles</span>?
+
+        - Answer: <span class="red">This 2005 American sex comedy film</span> features a scene where the main character, played by Steve Carell, has his chest hair removed; it required five cameras set up for the shot and Carell's chest hair was actually ripped out in the scene.
+          Question: What is <span class="red">The 40-Year Old Virgin</span>?
+
+        - Answer: The female lead of <span class="red">this 2004 American romantic comedy film</span>, played by Drew Barrymore, suffers from a fictitious memory impairment called "Goldfield's Syndrome", which is similar to short-term memory loss and anterograde amnesia.
+          Question: What is <span class="red">50 First Dates</span>?
+
+    - Name: Easy as Pie<sup>JK</sup>
+      Trivia:
+
+        - Answer: <span class="red">This idiomatic expression</span>, used to describe a very lazy person, originated from a 1970s comic strip featuring sedentary characters who watched television as a form of meditation.
+          Question: What is <span class="red">"couch potato"</span>?
+
+        - Answer: <span class="red">This idiom</span> means to reveal secret information accidentally or maliciously, often ruining a surprise or other plan. It is believed to have originated in ancient Greece, where people cast secret votes by putting white or black beans in a jar; if someone knocked over the jar, the vote would be revealed early.
+          Question: What is <span class="red">"spill the beans"</span>?
+
+        - Answer: <span class="red">This idiom</span>, used to refer to something or someone that one cherishes above all others, occurs in several places in the King James Bible translation from 1611 (interestingly, the idiom is very different in the original Hebrew, as the fruit used in the English translation is not native to Palestine and is rarely cultivated there).
+          Question: What is <span class="red">"apple of one's eye"</span>?
+
+        - Answer: By the late 1500s, <span class="red">this idiom</span>, alluding to the sour state of being in a brine solution, was being used in an extended figurative sense to mean a disagreeable or troubling condition; even Shakespeare uses this idiom in “The Tempest” to describe the difficult predicament Trinculo finds himself in.
+          Question: What is <span class="red">"in a pickle"</span>?
+
+        - Answer: In 1906 when Joe Gans fought Oliver Nelson in the world lightweight championship boxing contest, Gans’ mother sent him a telegram with <span class="red">this idiom</span>, which now means to make a living, to earn money, or to achieve financial support for those at home. After Gans won the contest, making him the first native-born African-American to win a world boxing title, the idiom became popular with sports writers before it spread to general usage.
+          Question: What is <span class="red">"bring home the bacon"</span>?
+
+    - Name: Easy as Pi
+      Trivia:
+
+        - Answer: <span class="red">This toy</span> is often twirled around the waist, but can also be used on the limbs, neck, or other parts of the body. The resulting oscillating hip motions resemble a traditional Hawaiian dance, which is from where the toy gets its familiar name.
+          Question: What is a <span class="red">hula hoop</span>?
+
+        - Answer: <span class="red">This song</span> by Elton John was written for the 1994 Disney film A Lion King and features the lyric "It's the leap of faith / It's the band of hope / 'Til we find our place / On the path unwinding"
+          Question: What is <span class="red">Circle of Life</span>?
+
+        - Answer: <span class="red">This song</span> was featured as the opening theme of the T.V. show Happy Days for its first two seasons. Its lyrics claim that the singer and the listener will enjoy themselves while moving gently to and fro all night until the sun comes up.
+          Question: What is <span class="red">Rock Around the Clock</span>?
+
+        - Answer: <span class="red">This spell</span> from the game Final Fantasy VII is the most powerful spell in the game and the most difficult to acquire. Its name and animation reference the noble members of the legendary fellowship of King Arthur, whose place of meeting physically symbolized their equal status.
+          Question: What is <span class="red">Knights of Round</span>? (or, who are the <span class="red">Knights of the Round Table</span>)?
+
+        - Answer: The name for <span class="red">this amusement park ride</span> comes from the Spanish word for "little battle", and resembles a Medieval jousting tradition wherein knights would gallop in a circle while tossing balls from one to another -- an activity that required great skill and horsemanship, in contrast to the leisurely ride we experience today.
+          Question: What is a <span class="red">carousel</span> or a <span class="red">merry-go-round</span>?
+
+    - Name: 'Game Night: Legacy<sup>TK</sup>'
+      Trivia:
+
+        - Answer: Particulary relevant today, a word used to describe diseases that are prevalent over a whole country or the entire world.
+          Question: What is <span class="red">pandemic</span>?
+
+        - Answer: A <span class="red">farming tool</span> with a long curved blade at the end of a long pole, used for cutting crops such as wheat; also associated with the grim reaper.
+          Question: What is a <span class="red">scythe</span>?
+
+        - Answer: More specifically, <span class="red">a violent overthrow of an existing government</span>; more generally, a sudden, decisive, and usually highly successful action.
+          Question: What is a <span class="red">coup</span>?
+
+        - Answer: A <span class="red">commonwealth and unincorporated territory of the United States</span> situated in the Caribbean Sea between the Dominican Republic and the U.S Virgin Islands.
+          Question: What is <span class="red">Puerto Rico</span>?
+
+        - Answer: <span class="red">Sovereignty or control</span>, or the territory under such control.
+          Question: What is <span class="red">dominion</span>?
 
