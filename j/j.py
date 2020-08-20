@@ -6,13 +6,17 @@ from munch import DefaultMunch
 
 from os import mkdir
 
+from os.path import isdir
 from os.path import join
+
+from shutil import rmtree
 
 from yaml import safe_load
 
 
 KEY_DEFINITION  = 'definition'
 KEY_DESTINATION = 'destination'
+KEY_FORCE       = 'force'
 
 STYLE          = 'style.css'
 FINAL          = 'final.html'
@@ -28,13 +32,15 @@ def main():
 
     args = _parse_arguments()
 
-    j(args[KEY_DEFINITION], args[KEY_DESTINATION])
+    j(args[KEY_DEFINITION], args[KEY_DESTINATION], args[KEY_FORCE])
 
 
-def j(definition_path, destination_path):
+def j(definition_path, destination_path, force):
 
-    # this will fail if the directory already exists
-    # TODO: maybe honor a --force flag?
+    if isdir(destination_path) and force:
+
+        rmtree(destination_path)
+
     mkdir(destination_path)
 
     _render_template(
@@ -140,6 +146,8 @@ def _parse_arguments():
 
     parser.add_argument(KEY_DEFINITION,  type=str, help='The path to the definition file')
     parser.add_argument(KEY_DESTINATION, type=str, help='The path to the destination directory')
+
+    parser.add_argument(f'--{KEY_FORCE}', action='store_true', help='Optional flag to delete destination directory when it exists')
 
     args = vars(parser.parse_args())
 
