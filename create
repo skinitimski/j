@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pipenv --venv
+
+if [ "$?" -ne 0 ]
+then
+    pipenv install
+fi
+
+pipenv run j $@
+
