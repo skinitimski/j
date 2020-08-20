@@ -155,7 +155,7 @@ Rounds:
     - Name: 'Game Night: Legacy<sup>TK</sup>'
       Trivia:
 
-        - Answer: Particulary relevant today, a word used to describe diseases that are prevalent over a whole country or the entire world.
+        - Answer: Particulary relevant today, a word used to describe <span class='red'>diseases that are prevalent over a whole country</span> or the entire world.
           Question: What is <span class="red">pandemic</span>?
 
         - Answer: A <span class="red">farming tool</span> with a long curved blade at the end of a long pole, used for cutting crops such as wheat; also associated with the grim reaper.
