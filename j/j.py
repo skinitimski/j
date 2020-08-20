@@ -119,7 +119,8 @@ def j(definition_path, destination_path, force):
     _render_template(
         join(destination_path, FINAL_CATEGORY),
         JINJA_ENV.get_template(FINAL_CATEGORY),
-        category=definition.Final.Category
+        category=definition.Final.Category,
+        round_count=round_count
     )
 
     _render_template(
