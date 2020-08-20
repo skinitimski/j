@@ -42,7 +42,7 @@ th.jeopardy
 {
     border-style: solid;
     border-spacing: 0;
-    border-color: #000;
+    border-color: #ccc;
     padding: 10;
     text-align: left;
     vertical-align: middle;
@@ -53,10 +53,10 @@ th.jeopardy
 td.jeopardy
 {
     border-style: solid;
-    border-color: #000;
+    border-color: #ccc;
     text-align: center;
     vertical-align: middle;
-    background-color: #fff;
+    background-color: #000080;
     height: 20%;
     width: 20%;
 }
