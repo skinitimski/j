@@ -9,7 +9,17 @@
     <table class="cell" style="width: 60%">
         <tr class="cell">
             <td class="cell">
-                <span>{{ question }}</span>
+                {% if 'WhoIs' in trivia %}
+                <span>Who is <span class='red'>{{ trivia.WhoIs }}</span>?</span>
+                {% elif 'WhoAre' in trivia %}
+                <span>Who are <span class='red'>{{ trivia.WhoAre }}</span>?</span>
+                {% elif 'WhatIs' in trivia %}
+                <span>What is <span class='red'>{{ trivia.WhatIs }}</span>?</span>
+                {% elif 'WhatAre' in trivia %}
+                <span>What are <span class='red'>{{ trivia.WhatAre }}</span>?</span>
+                {% else %}
+                <span>{{ trivia.Question }}</span>
+                {% endif %}
             </td>
         </tr>
         <tr class="cell">

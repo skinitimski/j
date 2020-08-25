@@ -106,8 +106,8 @@ def j(definition_path, destination_path, force):
                 _render_template(
                     join(destination_path, f'question.round{round_index}.category{category_index}.prize{prize}.html'),
                     template_question,
-                    question=trivia.Question,
-                    round_index=round_index
+                    round_index=round_index,
+                    trivia=trivia
                 )
 
     _render_template(
