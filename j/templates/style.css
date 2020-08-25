@@ -13,6 +13,8 @@ table.cell
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 tr.cell
 {
@@ -47,6 +49,8 @@ th.jeopardy
     text-align: left;
     vertical-align: middle;
     background-color: #000000;
+    height: 16%;
+    width: 20%;
     color: #ffffff;
 }
 
@@ -57,7 +61,7 @@ td.jeopardy
     text-align: center;
     vertical-align: middle;
     background-color: #000080;
-    height: 20%;
+    height: 16%;
     width: 20%;
 }
 

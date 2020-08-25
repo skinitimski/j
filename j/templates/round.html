@@ -12,46 +12,48 @@
                 <span>Jeopardy! Round {{ round_index }}</span>
             </td>
         </tr>
-    </table>
-    <table width="60%" class="jeopardy">
-        <tr class='jeopardy'>
-            {% for category in categories %}
-            <th class='jeopardy' width="20%">{{ category.Name }}</th>
-            {% endfor %}
-        <tr/>
-    </table>
-    <table width="60%" height="70%" class="jeopardy">
-        {% for prize in prizes %}
-        <tr class='jeopardy'>
-            {% set loop_prize = loop %}
-            {% for category in categories %}
-            <td class='jeopardy'>
-                {% set linkname = 'dailydouble' if category.Trivia[loop_prize.index0].DailyDouble else 'answer' %}
-                <a class="answer" href="{{ linkname }}.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">${{ prize }}</a>
-            </td>
-            {% endfor %}
-        <tr/>
-        {% endfor %}
-    </table>
-    <table class="cell">
         <tr class="cell">
             <td class="cell">
-                {% if round_index == round_count %}
-                <a href="final.html">To Final Jeopardy</a>
-                {% else %}
-                {% set next_round = round_index + 1 %}
-                <a href="round{{ next_round }}.html">To Round {{ next_round }}</a>
-                {% endif %}
+                <table width="60%" height="75%" class="jeopardy">
+                    <tr class='jeopardy'>
+                        {% for category in categories %}
+                        <th class='jeopardy' width="20%">{{ category.Name }}</th>
+                        {% endfor %}
+                    <tr/>
+                    {% for prize in prizes %}
+                    <tr class='jeopardy'>
+                        {% set loop_prize = loop %}
+                        {% for category in categories %}
+                        <td class='jeopardy'>
+                            {% set linkname = 'dailydouble' if category.Trivia[loop_prize.index0].DailyDouble else 'answer' %}
+                            <a class="answer" href="{{ linkname }}.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">${{ prize }}</a>
+                        </td>
+                        {% endfor %}
+                    <tr/>
+                    {% endfor %}
+                </table>
+                <table class="cell">
+                    <tr class="cell">
+                        <td class="cell">
+                            {% if round_index == round_count %}
+                            <a href="final.html">To Final Jeopardy</a>
+                            {% else %}
+                            {% set next_round = round_index + 1 %}
+                            <a href="round{{ next_round }}.html">To Round {{ next_round }}</a>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% if round_index > 1 %}
+                    {% set previous_round = round_index - 1 %}
+                    <tr class="cell">
+                        <td class="cell">
+                            <a href="round{{ previous_round }}.html">To Round {{ previous_round }}</a>
+                        </td>
+                    </tr>
+                    {% endif %}
+                </table>
             </td>
         </tr>
-        {% if round_index > 1 %}
-        {% set previous_round = round_index - 1 %}
-        <tr class="cell">
-            <td class="cell">
-                <a href="round{{ previous_round }}.html">To Round {{ previous_round }}</a>
-            </td>
-        </tr>
-        {% endif %}
     </table>
 </body>
 </html>
