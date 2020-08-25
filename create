@@ -1,11 +1,11 @@
 #!/bin/bash
 
-pipenv --venv
+pipenv --venv > /dev/null
 
 if [ "$?" -ne 0 ]
 then
     pipenv install
 fi
 
-pipenv run j $@
+pipenv run j definitions/$1.yaml build/$1 --force
 

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./create $1
+
+zip -jr $1.zip build/$1
+
