@@ -13,14 +13,12 @@
             </td>
         </tr>
     </table>
-    <table width="60%" class="jeopardy">
+    <table width="60%" height="70%" class="jeopardy">
         <tr class='jeopardy'>
             {% for category in categories %}
             <th class='jeopardy' width="20%">{{ category.Name }}</th>
             {% endfor %}
         <tr/>
-    </table>
-    <table width="60%" height="70%" class="jeopardy">
         {% for prize in prizes %}
         <tr class='jeopardy'>
             {% set loop_prize = loop %}

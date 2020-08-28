@@ -1,7 +1,7 @@
 Final:
-  Category:
-  Answer:
-  Question:
+  Category: Ted Mosby, Architect
+  Answer: <span class='red'>This American children's toy</span>, inducted into the National Toy Hall of Fame in 1999, was invented in 1916 by John Lloyd Wright after working with his father, well-known architect Frank Lloyd Wright, on the earthquake-proof design of the Imperial Hotel in Tokyo. Its interlocking beams helped it be one of the few buildings to remain standing after the 1923 Great Kanto Earthquake that crumbled Tokyo.
+  Question: What are <span class='red'>Lincoln Logs</span>?
 Rounds:
 
   - Categories:
@@ -18,7 +18,6 @@ Rounds:
           Question: What is <span class="red">"teaching an old dog new tricks"</span>?
         - Answer: The Mythbusters confirmed <span class="red>this idiom</span>, also used to describe something that is nearly impossible to accomplish, after failing to find the object mentioned in the idiom even with the help of the most robust technology and machinery.
           Question: What is <span class="red">"finding a needle in a haystack"</span>?
-
 
     - Name: Pet Names<sup>JK</sup>
       Trivia:
@@ -59,6 +58,71 @@ Rounds:
         - Answer: This word, which means “a complete failure especially in a ludicrous or humiliating way”, comes from an Italian word meaning “ordinary glass bottle.” The story goes that if a glass maker noticed a piece of fancy glass they were working on had an imperfection or flaw,  it would be considered a failure, and would be set aside to be turned into “an ordinary glass bottle” instead.
           WhatIs: Fiasco
 
+    - Name: Potent Potables<sup>TK</sup>
+      Trivia:
+        - Answer: The standard formula for <span class='red'>this carbonated, alcoholic beverage</span> includes malted barley, hops, yeast, and water.
+          WhatIs: Beer
+        - Answer: First produced (as far as we know) in ancient China in 7000 B.C.E, <span class='red'>this potable</span> is generally made from the fermented juice of grapes.
+          WhatIs: Wine
+        - Answer: Contrary to popular belief, <span class='red'>this potable</span> made from the blue agave plant is not commonly (or ever) found with a worm in the bottle.
+          WhatIs: Vodka
+        - Answer: <span class='red'>This potable</span> is made from fermenting various sugarcane byproducts. The term "Navy Strength" is sometimes applied to batches with a higher ABV than average (57% or 114 proof).
+          WhatIs: Rum
+        - Answer: <span class='red'>This potable</span>, commonly associated with the Germanic peoples of the Early Middle Ages, is made by fermenting honey.
+          WhatIs: Mead
 
-  - Categories: []
+
+  - Categories:
+
+    - Name: AlphaBetiCal<sup>JK</sup>
+      Trivia:
+        - Answer: <span class='red'>This word</span> (whose letters appear in AlphaBetiCal order) for the soul or spirit of a dead person or animal that can appear to the living is also the name of a 1990 American romantic fantasy thriller film starring Patrick Swayze, Demi Moore, and Whoopie Goldberg.
+          WhatIs: Ghost
+        - Answer: <span class='red'>This number</span> (the only number whose letters appear in AlphaBetiCal order) is used in the bible to designate important time periods. For example, Moses, Elijah, and Jesus fasted in the desert for this many days, the Israelites wandered in the desert for this many years, and it rained for this many days in the Noah’s Ark / Flood story.
+          WhatIs: Forty
+        - Answer: In botanical terminology, <span class='red'>this AlphaBetiCal word</span> is a simple fruit with seeds and pulp produced from the ovary of a single flower, technically (but uncommonly) including bananas, tomatoes. grapes, eggplants, persimmons, watermelons, and pumpkins.
+          WhatIs: Berry
+        - Answer: <span class='red'>This AlphaBetiCal word</span> has evolved from originally meaning “at leisure, not occupied, or unmarried” to meaning “containing nothing, unoccupied”; interestingly this same evolution has occurred independently in several other languages.
+          WhatIs: Empty
+        - Answer: <span class='red'>This AlphaBetiCal word</span> is a self-sufficient monastery that uses any abundance of produce or skill to provide care to the poor and needy, refuge to the persecuted, or education to the young; also another name for a Belgian strong dark ale.
+          WhatIs: Abbey
+
+    - Name: Menage-a-Trois<sup>JK</sup>
+      Trivia:
+        - Answer: This threesome of kindergarten-aged girls with superpowers had their own animated TV series from 1998-2005, a 2002 feature film, three CD soundtracks, a home video collection, comic books, a series of video games, a 2016 reboot series, as well as various licensed merchandise.
+          WhoAre: the Powerpuff Girls
+        - Answer: The names of this threesome of cartoon elf-like mascots of Kellogg's Rice Krispies are onomatopoeia for the sounds the cereal makes in milk.
+          WhoAre: Snap, Crackle, and Pop
+        - Answer: 'Fun facts about this threesome of crime-fighting women from the original 1970s TV series: they were originally called "The Alley Cats", they all drove Ford cars in the show, and the wardrobe budget for their multiple costume changes in each episode totaled $20,000 a week!'
+          WhoAre: Charlie’s Angels
+        - Answer: In the movie Hocus Pocus, this threesome of witch sisters were accidentally revived in modern-day Salem and attempt to become immortal by sucking the life force out of children.
+          WhoAre: the Sanderson Sisters (Winifred, Sarah, and Mary)
+        - Answer: In this Cartoon Network series, this threesome of preteen boys with similar names invent schemes to make money from their peers to purchase their favorite confection, jawbreakers. Their plans usually fail, leaving them in various, often humiliating, predicaments.
+          WhoAre: Ed, Edd, and Eddie
+
+    - Name: Lost in Translation<sup>JK</sup>
+      Trivia:
+        - Answer: In Argentina, the name of this 1978 musical movie starring John Travolta as Danny and Olivia Newton-John as Sandy is translated as “Vaseline.”
+          WhatIs: Grease
+        - Answer: The name of this 2014 American superhero film based on a Marvel Comics superhero team starring Chris Pratt, Vin Diesel, and Bradley Cooper is “Interplanetary Unusual Attacking Team” in Taiwan.
+          WhatIs: Guardians of the Galaxy
+        - Answer: This 1986 classic of American cinema has power ballads, shit blowing up, and a hot romance between Kelly McGillis and Tom Cruise, which might be why in Israel, its name translates to “Love in the Skies.”
+          WhatIs: Top Gun
+        - Answer: The name of this 1977 American romantic comedy film starring Woody Allen and Diane Keaton is translated in Brazil as “Neurotic Groom, Nervous Bride” though in English it is simply the name of Diane Keaton’s character!
+          WhatIs: Annie Hall
+        - Answer: While there are no cats in this 1997 American romantic comedy film, this movie’s title in Hong Kong translates to Mr. Cat Poop, likely because the word for cat poop in Cantonese (mao fen) sounds a lot like the name of the misanthropic and obsessive-compulsive novelist character played by Jack Nicholson, Melvin.
+          WhatIs: As Good as It Gets
+
+    - Name: Sweepin' the Clouds Away<sup>JK</sup>
+      Trivia:
+        - Answer: During the first season of Sesame Street, this trash-can living muppet was orange, but Jim Henson decided to make him green during the second season. The explanation of the color change given on the show was that he went on vacation to the very damp Swamp Mushy Muddy and turned green overnight.
+          WhoIs: Oscar the Grouch
+        - Answer: This muppet, who eats almost anything including normally inedible objects, is also the only Muppet character who has five fingers; everyone else has four.
+          WhoIs: Cookie Monster
+        - Answer: This African American actor who voiced both Darth Vadar in Star Wars and Mufasa in the Lion King was the first celebrity to make an appearance on Sesame Street.
+          WhoIs: James Earl Jones
+        - Answer: This red, furry Muppet is the only Muppet in history to have testified before Congress. He donned his best suit and tie and traveled to Capitol Hill to testify before the House Appropriations Subcommittee on Labor, Health and Human Services and Education to request $2 million in federal funding for music education programs.
+          WhoIs: Elmo
+        - Answer: Before his debut in the second season of Sesame Street with blue fur and a pink nose, this lovable, cute, and furry muppet who rarely uses contractions when he speaks or sings, had greenish-brown fur, a red nose, and a much raspier voice.
+          WhoIs: Grover
 

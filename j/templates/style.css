@@ -48,6 +48,8 @@ th.jeopardy
     vertical-align: middle;
     background-color: #000000;
     color: #ffffff;
+    height: 16%;
+    width: 20%;
 }
 
 td.jeopardy
@@ -57,7 +59,7 @@ td.jeopardy
     text-align: center;
     vertical-align: middle;
     background-color: #000080;
-    height: 20%;
+    height: 16%;
     width: 20%;
 }
 
