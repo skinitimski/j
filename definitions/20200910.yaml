@@ -19,7 +19,6 @@ Rounds:
         - Answer: A type of volcanic rock with a rough jagged surface, from the Hawaiian word meaning to burn or to blaze (also a super awesome and very versatile 2 point scrabble word).
           WhatIs: Aa
 
-
     - Name: 90s Film Facts<sup>JK</sup>
       Trivia:
         - Answer: There wasn't supposed to be any snow in this 1990 American Christmas comedy film starring Macaulay Culkin, but after a blizzard hit Chicago on the second day of filming it forced the filmmakers to add snow to all the other scenes for continuity.
@@ -37,22 +36,22 @@ Rounds:
     - Name: DICK Thunder<sup>JK</sup>
       Trivia:
         - Answer: He was George W. Bush's Vice President. He is also one of the most unpopular politicians in the history of the US, holding an approval rating of just 13% at the time of leaving office.
-          WhatIs: Dick Cheney
+          WhoIs: Dick Cheney
         - Answer: For this 1990 American action crime film, director Warren Beatty (who also played the titular detective) chose a color scheme limited to just seven variations (red, green, fuchsia, orange, cyan, blue, and yellow) —to evoke the film's comic strip origins; each of the colors had to be exactly the same shade throughout the film, which was the most challenging aspect of production and pushed the film way, way over-budget.
-          WhatIs: Dick Tracy
+          WhoIs: Dick Tracy
         - Answer: This American radio and television personality is best known for hosting American Bandstand from 1956 to 1989 and his New Year's Rockin' Eve celebration in Times Square from 1973 to 2004.
-          WhatIs: Dick Clark
+          WhoIs: Dick Clark
         - Answer: "This American actor, comedian, writer, singer, and dancer is notably known for two moves: falling over an ottoman as he enters his living room on his eponymous CBS television sitcom from 1961 to 1966, and dancing with penguins and chimney sweeps in the 1964 musical film Mary Poppins."
-          WhatIs: Dick Van Dyke
+          WhoIs: Dick Van Dyke
         - Answer: At 6 feet, 3 inches tall and 245 pounds, this former linebacker for the Chicago Bears from 1965 to 1973 is known as one of football's meanest, toughest, and most feared players. Fun fact, he weighed 13 pounds 6 ounces at birth!
-          WhatIs: Dick Butkus
+          WhoIs: Dick Butkus
 
 
     - Name: So Many Pet Names<sup>JK</sup>
       Trivia:
-        - Answer: This fictional superhero and “Man of Steel” born in Krypton flies through the air with either one arm, or both, outstretched in front of him. (This makes it a great nickname for Fela when he stretches both arms out to get a belly rub.)
-          WhatIs: Superman
-        - Answer: One of 100 representatives in Congress (two from each state) who share (with the 435 members of the House of Representatives) responsibility for all lawmaking within the United States. (Also, an appropriate nickname for Sanders kitty).
+        - Answer: This fictional superhero and “Man of Steel” born on Krypton flies through the air with either one arm, or both, outstretched in front of him. (This makes it a great nickname for Fela when he stretches both arms out to get a belly rub.)
+          WhoIs: Superman
+        - Answer: One of 100 representatives in Congress (two from each state) who share (with the 435 members of the House of Representatives) responsibility for all federal lawmaking within the United States. (Also, an appropriate nickname for Sanders kitty).
           WhatIs: Senator
         - Answer: A 2002 song by Destiny's Child about being able to prosper in spite of opposition, hardship, or setbacks. (Also a great nickname for Sanders who began life homeless and on the streets in Florida; we imagine he did everything he could to stay alive.)
           WhatIs: Survivor
@@ -66,11 +65,27 @@ Rounds:
       Trivia:
         - Answer: "In Europe, A-ha scored hit after hit and were massively popular. In America, this song was their one hit wonder, featuring these lyrics: \"I'll be stumbling away, Slowly learning that life is okay, Say after me, It's no better to be safe than sorry.\""
           WhatIs: Take On Me
-        - Answer: This one hit wonder, written about The Knack's frontman's gir Doug Fieger, frontman of The Knack, wrote this one hit wonder about his girlfriend, with lyrics like, "Never gonna stop, give it up, such a dirty mind, I always get it up, for the touch of the younger kind. My, my, my, aye-aye, whoa!"
+        - Answer: Doug Fieger -- frontman for The Knack -- wrote this one hit wonder about his girlfriend, with lyrics including, "Never gonna stop, give it up, such a dirty mind, I always get it up, for the touch of the younger kind."
           WhatIs: My Sharona
+          DailyDouble: true
         - Answer: Kevin Rowland, frontman of Dexy’s Midnight Runners, says that this one hit wonder, featuring the lyrics "At this moment, you mean everything. With you in that dress, oh my thoughts I confess, verge on dirty" was inspired by a real girl he slept with at age 15.
           WhatIs: Come on Eileen
-        - Answer: This one hit wonder by the Baha Men, which won a 2001 Grammy for Best Dance Recording, features lyrics like " Get back you flea infested mongrel" and "Woof, woof woof woof, woof."
+        - Answer: This one hit wonder by the Baha Men, which won a 2001 Grammy for Best Dance Recording, features lyrics including "Get back you flea infested mongrel" and "Woof, woof woof woof, woof."
           WhatIs: Who Let the Dogs Out
         - Answer: This one hit wonder by Right Said Fred which features these lyrics "Cause I'm a model, you know what I mean, And I do my little turn on the catwalk" has been described as a "humorous yet misunderstood swipe at self centered male bodybuilders and models" and "a campy send-up of the fashion world."
           WhatIs: I'm Too Sexy
+
+  - Categories:
+
+    - Name: That's Better<sup>TK</sup>
+      Trivia:
+        - Answer: Aretha Franklin topped the charts in 1967 with her recording of this song, which was originally recorded to lesser fanfare by Otis Redding in 1965. Franklin's version added the iconic chorus in which the song's title is spelled out.
+          WhatIs: "\"Respect\""
+        - Answer: This song became a big hit for Smash Mouth when they covered it for the soundtrack for Shrek in 2001. But the song, also a big hit for The Monkees in 1966, was penned by Neil Diamond, who also recorded performances of it.
+          WhatIs: "\"I'm a Believer\""
+        - Answer: This song is frequently misattributed to Bob Marley, possibly as a result of mp3s being proliferated on napster with the wrong name, combined with the fact that UB40's version of the song is in the reggae genre. But, it was Neil Diamond who wrote and first recorded the song in 1967.
+          WhatIs: "\"Red Red Wine\""
+        - Answer: This song, the only top-40 hit for Lou Bega in the United States, was all over the radio after it was released in 1999. The song lifted heavily from the original version composed and recorded by Cuban musician Dámaso Pérez Prado in 1949. After a seven-year legal battle -- in which Bega's producers attempted to claim there was no copyright infringement -- the courts declared it a new song co-written by Prado and Bega due to Bega's significant contributions in his version.
+          WhatIs: "\"Mambo no. 5\""
+        - Answer: "This song, originally penned and recorded by Bruce Springsteen in 1973, later became a hit for Manfred Mann's Earth Band in 1976. The lyrics differ somewhat between the two versions -- Springsteen's \"cut loose like a deuce\" is replaced with \"revved up like a deuce\", which is often misheard as \"wrapped up like a douche\"."
+          WhatIs: "\"Blinded by the Light\""
