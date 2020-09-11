@@ -16,18 +16,18 @@ Rounds:
           Question: Who is Fuggles N. Tetnang?
         - Answer: This cat was named for the most common type of malt used in homebrewing.
           Question: Who is Turo Barley?
-    - Name: Stuff
+    - Name: The Five "W"s
       Trivia:
-        - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.
-          Question: Who is Fela Kuti?
-        - Answer: This cat is named for a funky keyboard player who performed with pfunk.
-          Question: Who is Bernie Worrell?
-        - Answer: This cat is named for a Vermont senator who ran for president in 2016 and 2020.
-          Question: Who is Bernie Sanders?
-        - Answer: This cat was named for two different hops, with the exception of his middle name, "Nothing".
-          Question: Who is Fuggles N. Tetnang?
-        - Answer: This cat was named for the most common type of malt used in homebrewing.
-          Question: Who is Turo Barley?
+        - Answer: This show stars Ted Mosby, architect.
+          WhatIs: How I Met Your Mother
+        - Answer: Tootsie Pops are commonly known for this <span class='red'>conundrum of a catch phrase</span> from animated television ads which first aired in 1970.
+          WhatIs: "\"How many licks does it take to get to the center of a tootsie pop?\""
+        - Answer: Something about something.
+          WhatIs: Howitzer
+        - Answer: Something about something.
+          WhatIs: How to Win Friends and Influence People
+        - Answer: Something about something.
+          WhoIs: Howard Stern
     - Name: Things
       Trivia:
         - Answer: This cat is named for a Nigerian saxophone player and bandleader who ran for president in his country in the late 1970s.

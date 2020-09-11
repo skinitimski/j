@@ -1,7 +1,7 @@
 Final:
-  Category: Another Pet Name!
-  Answer:  In <span class='red'>this 1984 American Comedy Horror film</span> that takes place during Christmas Time, Randall Peltzer, a struggling inventor and father of main character Billy, introduces us to The Bathroom Buddy, a self-contained portable unit that features a wide variety of built-in features including a toothpick, toenail clippers, nail file, mirror, dental floss, shaving razor, shaving cream, toothbrush, and toothpaste. (Bathroom Buddy is also a nickname Jamie uses for her cats when they insist on joining her in the bathroom).
-  Question: What is <span class='red'>Gremlins?</span>
+  Category: That's a Hard Dick
+  Answer: "A sport is defined as “an athletic activity requiring skill or physical prowess, often of a competitive nature.” Dick Trickle (yes that is his actual name) is a legend in <span class='red'>this sport</span>. Fun facts about him: He was born on October 27 (JAMIE’S BDAY!!! AHH!), in 1941 in Wisconsin Rapids, WI (WISCONSIN?!? WHAT A COINCIDENCE!!) and not surprisingly ESPN SportsCenter anchors would regularly mock his name during televised highlights, though he was quite good-natured about it."
+  Question: What is <span class='red'>NASCAR / Auto Racing / Racecar Driving</span>?
 
 Rounds:
   - Categories:
@@ -89,3 +89,55 @@ Rounds:
           WhatIs: "\"Mambo no. 5\""
         - Answer: "This song, originally penned and recorded by Bruce Springsteen in 1973, later became a hit for Manfred Mann's Earth Band in 1976. The lyrics differ somewhat between the two versions -- Springsteen's \"cut loose like a deuce\" is replaced with \"revved up like a deuce\", which is often misheard as \"wrapped up like a douche\"."
           WhatIs: "\"Blinded by the Light\""
+
+    - Name: Whose Turn Is It?<sup>JK</sup>
+      Trivia:
+        - Answer: This American sitcom television series which aired on ABC 1984 to 1992 (and consistently ranked in the top 10 for primetime ratings between 1985 and 1989) starred Tony Danza as a former major league baseball player working as a live-in housekeeper.
+          WhatIs: Who's the Boss
+        - Answer: Even though American singer and actress Cher initially disliked the demo tape, this song, which charted at number one in Australia and Norway and number three in the United States, was seen as a major comeback for her in the late 1980s. (It is also a popular meme for Daylight Savings Time.)
+          WhatIs: If I Could Turn Back Time
+        - Answer: "This is 1940 novel by Ernest Hemingway about the process of death in modern warfare and the bloody Spanish Civil War has inspired many adaptations of the same name including: a 1943 movie, a 1965 BBC television series, and a song by Metallica."
+          WhatIs: For Whom the Bell Tolls
+        - Answer: "This 1965 song by the Byrds is a Pete Seeger adaptation of text from the Book of Ecclesiastes in the Hebrew Bible: “To everything, there is a season, and a time to every purpose, under heaven, a time to be born, a time to die,  time to plant, a time to reap, a time to kill, a time to heal, a time to laugh, a time to weep.”"
+          WhatIs: Turn, Turn, Turn!
+        - Answer: This American television soap opera, which aired a total of 13,858 episodes during its 54 year reign from April 2, 1956, to September 17, 2010, got its name from creator Irna Phillips because through her storylines we would “know the bleakness of winter, the promise of spring, the fullness of summer, and the harvest of autumn—the cycle of life is complete.”
+          WhatIs: As the World Turns
+
+    - Name: DICK Thunder<sup>JK</sup>
+      Trivia:
+        - Answer: This 37th President of the United States resigned on August 9, 1974 before the verdict of his impreachment trial, which would have inevitability led to his removal from office because of his role in the Watergate scandal.
+          WhoIs: Richard Nixon
+        - Answer: "This semi-retired American fitness instructor, actor, and video producer is arguably most known for three things: his Sweatin' to the Oldies line of aerobics videos, his eccentric, bubbly, and energetic personality, and his penchant for flamboyant attire like candy-striped short shorts and diamond studded tank tops."
+          WhoIs: Richard Simmons
+        - Answer: This Puerto Rican singer of Livin’ La Vida Loca (and also apparently, according to Wikipedia, songwriter, record producer, actor, author, humanitarian, and "King of Latin Pop") began his career at age 12 with the all-boy pop group Menudo.
+          WhoIs: Ricky Martin
+        - Answer: This flamboyant rock & roll showman is known for his frenetic piano playing, raspy shouted vocals, and sexually charged (but often gibberish) lyrics in songs like Tutti Fruitti, Good Golly Miss Molly, and Long Tall Sally. In 2015, he received a Rhapsody & Rhythm Award from the National Museum of African American Music for his key role in helping to bring an end to the racial divide on the music charts.
+          WhoIs: Little Richard
+        - Answer: In the South Park season 10 episode “Go God Go”, a satirical caricature of this British evolutionary biologist, author, and outspoken atheist taught a lesson on evolution to South Park Elementary, and later proceeded to have sex with Mr. Garrison.
+          WhoIs: Richard Dawkins
+
+    - Name: Dick THUNDER<sup>JK</sup>
+      Trivia:
+        - Answer: The National Weather Service defines this as "A severe snow storm with winds greater than or equal to 35 mph causing blowing snow that results in reduced visibility to ¼ mi or less and must last for a prolonged period of time—typically three hours."
+          WhatIs: Blizzard
+        - Answer: The National Weather Service defines this as "A violently rotating column of air with circulation reaching the ground, nearly always starting as a funnel cloud and may be accompanied by a loud roaring noise, with wind speeds of 100 to 300 miles per hour."
+          WhatIs: Tornado
+        - Answer: The National Weather Service defines this as "A rotating low-pressure weather system with maximum sustained winds of at least 74 miles per hour, usually accompanied by rain, thunder, and lightning, that originates in the ocean."
+          WhatIs: Hurricane
+        - Answer: The National Weather Service defines this as “A localized column of sinking air (a downdraft) within a thunderstorm that is less than or equal to 2.5 miles in diameter with wind speeds up to 100 mph.”
+          WhatIs: Microburst
+        - Answer: The word for this weather phenomenon comes from the Spanish adjective for "straight" (or "direct") in reference to its straight blowing winds (in contrast with a tornado’s "twisted" wind). Iowa was just recently hit with one of these in August and it still cleaning up from the damage.
+          WhatIs: Derecho
+
+    - Name: Deez Catz<sup>JK</sup>
+      Trivia:
+        - Answer: Contrary to popular belief, these large flightless birds don't technically bury their heads in the sand; they do dig holes in the dirt to use as nests for their eggs, and several times a day, the bird puts her head in the hole to turn the eggs, making it look like her head is buried. (either way, it’s a great nickname for Bernie for when he burrows his head in my elbow.)
+          WhatIs: Ostrich
+        - Answer: Contrary to popular belief, this desert-dwelling mammal does not store water in its body, it stores fat. (either way, I’m still gonna call Sanders this every time he chugs water, because I swear he gains water weight, like he’s saving it for later.)
+          WhatIs: Camel
+        - Answer: Contrary to popular belief, eating this bird, while it does contain a little tryptophan, will not make you sleepy. (I use this word to describe my cats when they curl their legs up into their bodies and look like the fatted bird on the Thanksgiving dinner table.)
+          WhatIs: Turkey
+        - Answer: Contrary to popular belief, the correct adjective for this large water bird, with a black head and neck, white cheeks and chin, and a brown body, is “Canada” not “Canadian”. (Either way, the cats have this way of laying down that make them look just like these birds nesting.)
+          WhatIs: Goose
+        - Answer: This is a mythological creature, that appears in Irish folklore and fairy tales, who produces spine-chilling cries, screams, and wails of grief to mark a person's impending death. (Contrary to what Jamie thought it meant, a creature who runs around in circles like crazy like Fela does.)
+          WhatIs: Banshee
