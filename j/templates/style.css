@@ -25,20 +25,20 @@ td.cell
     padding: 20;
 }
 
-table.jeopardy
+table.jeoparty
 {
     font-size: 24pt;
     margin-left: auto;
     margin-right: auto;
 }
 
-tr.jeopardy
+tr.jeoparty
 {
     width: 100%;
     margin-left: 10px;
 }
 
-th.jeopardy
+th.jeoparty
 {
     border-style: solid;
     border-spacing: 0;
@@ -52,7 +52,7 @@ th.jeopardy
     width: 20%;
 }
 
-td.jeopardy
+td.jeoparty
 {
     border-style: solid;
     border-color: #ccc;

@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Jeopardy - Round {{ round_index }}</title>
+    <title>Jeoparty - Round {{ round_index }}</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script type="text/javascript" src="jquery-1.8.3.js"> </script>
@@ -9,21 +9,21 @@
     <table class="cell">
         <tr class="cell">
             <td class="cell">
-                <span>Jeopardy! Round {{ round_index }}</span>
+                <span>Jeoparty! Round {{ round_index }}</span>
             </td>
         </tr>
     </table>
-    <table width="60%" height="70%" class="jeopardy">
-        <tr class='jeopardy'>
+    <table width="60%" height="70%" class="jeoparty">
+        <tr class='jeoparty'>
             {% for category in categories %}
-            <th class='jeopardy' width="20%">{{ category.Name }}</th>
+            <th class='jeoparty' width="20%">{{ category.Name }}</th>
             {% endfor %}
         <tr/>
         {% for prize in prizes %}
-        <tr class='jeopardy'>
+        <tr class='jeoparty'>
             {% set loop_prize = loop %}
             {% for category in categories %}
-            <td class='jeopardy'>
+            <td class='jeoparty'>
                 {% set linkname = 'dailydouble' if category.Trivia[loop_prize.index0].DailyDouble else 'answer' %}
                 <a class="answer" href="{{ linkname }}.round{{ round_index }}.category{{ loop.index }}.prize{{ prize }}.html">${{ prize }}</a>
             </td>
@@ -35,7 +35,7 @@
         <tr class="cell">
             <td class="cell">
                 {% if round_index == round_count %}
-                <a href="final.html">To Final Jeopardy</a>
+                <a href="final.html">To Final Jeoparty</a>
                 {% else %}
                 {% set next_round = round_index + 1 %}
                 <a href="round{{ next_round }}.html">To Round {{ next_round }}</a>

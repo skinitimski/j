@@ -143,7 +143,7 @@ def j(definition_path, destination_path, force):
 
 def _parse_arguments():
 
-    parser = ArgumentParser(description='Tool to generate html-based Jeopardy')
+    parser = ArgumentParser(description='Tool to generate html-based Jeoparty')
 
     parser.add_argument(KEY_DEFINITION,  type=str, help='The path to the definition file')
     parser.add_argument(KEY_DESTINATION, type=str, help='The path to the destination directory')
