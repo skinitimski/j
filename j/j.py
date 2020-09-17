@@ -4,7 +4,7 @@ from jinja2 import Environment, PackageLoader
 
 from munch import DefaultMunch
 
-from os import mkdir
+from os import makedirs
 
 from os.path import isdir
 from os.path import join
@@ -41,7 +41,7 @@ def j(definition_path, destination_path, force):
 
         rmtree(destination_path)
 
-    mkdir(destination_path)
+    makedirs(destination_path)
 
     _render_template(
         join(destination_path, STYLE),
