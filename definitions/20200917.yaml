@@ -1,5 +1,5 @@
 Final:
-  Category: Bird Brained
+  Category: Bird-Brained
   Answer: This colloquial idiom, meaning to admit a humiliating error one has made, to concede a humiliating defeat, or to be proven wrong after taking a strong position, has roots in the book of Leviticus in the Hebrew Bible (about food prohibitions) and a story that appeared in the Saturday Evening Post in 1850 (about a slow-witted New York farmer who is outfoxed by his urban guests).
   Question: What is <span class='red'>"to eat crow"</span>?
 
@@ -133,7 +133,7 @@ Rounds:
         - Answer: In this 2005 American comedy drama film, based on a 2001 novel,  four best girlfriends hatch a plan to stay connected with one another as their lives start off in different directions; they pass around a pair of secondhand jeans that fits each of their bodies perfectly.
           WhatIs: Sisterhood of the Traveling Pants
         - Answer: The title of this 1991-1992 Nickelodeon show set at Camp Anawanna with a memorable cast of characters such as Ug, Donkeylips, Sponge, and Budnick, comes from a camp prank of stealing underwear to raise up a flagpole.
-          WhatIs: Salute to Your Shorts
+          WhatIs: Salute Your Shorts
           DailyDouble: true
         - Answer: A scene in this 2014 movie shows the state-approved TV show the President uses to keep his citizens unimaginative and distracted; a common trope in the show is one character asking his wife, "Honey, where are my pants?"
           WhatIs: The Lego Movie
@@ -142,15 +142,15 @@ Rounds:
 
     - Name: Short, Stubby Penises<sup>TK</sup>
       Trivia:
-        - Answer: This cape in northeaster Massachusetts includes the city of Gloucester and the towns of Essex, Manchester-by-the-pretentious-Sea and Rockport.
+        - Answer: This cape in northeastern Massachusetts includes the city of Gloucester and the towns of Essex, Manchester-by-the-pretentious-Sea and Rockport (and <em>definitely</em> not Rowley).
           WhatIs: Cape Ann
-        - Answer: Famous for its use as a launch site by NASA during the Gemini, Apollo, Skylab, and Space Shuttle missions, this cape on the Atlantic coast of Florida was known as Cape Kennedy for a period following its namesake's assassination.
+        - Answer: Famous for its use as a launch site by NASA during the Gemini, Apollo, Skylab, and Space Shuttle missions, this cape on the Atlantic coast of Florida was known as Cape Kennedy for a period following the assassination of JFK.
           WhatIs: Cape Canaveral
-        - Answer: This cape shares its name with a 1991 psychological thriller film, which was a remake of a 1962 film of the same name, which was based on John D. MacDonald's 1957 novel, <em>The Executioners</em>.
-          WhatIs: Cape Fear
-        - Answer: This cape was originally named the "Cape of Storms", but it was renamed by King John II of Portugal to reflect the great optimism engendered by the opening of a sea route to the far east.
-          WhatIs: Cape Ann
+        - Answer: This cape on the southern shores of Africa was originally named the "Cape of Storms", but it was renamed by King John II of Portugal to reflect the great optimism engendered by the opening of a sea route to the far east.
+          WhatIs: Cape of Good Hope
         - Answer: This cape sits at the southernmost tip of South America. It marks the spot on the coastline where the Pacific and Atlantic oceans meet.
           WhatIs: Cape Horn
+        - Answer: This American cape shares its name with a 1991 psychological thriller film, which was a remake of a 1962 film of the same name, which was based on John D. MacDonald's 1957 novel, <em>The Executioners</em>.
+          WhatIs: Cape Fear
 
 
