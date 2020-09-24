@@ -1,0 +1,73 @@
+Final:
+  Category: Nonsense
+  Answer: "A nonce word is a word originally coined and used only for a particular occasion. This nonce word was created by James Joyce for his book Finnegans Wake. Physicist Murray Gell-Mann adopted this nonce word as the name of the subatomic particles he discovered, for which he was awarded a Nobel Prize in 1969. This nonce word is also the name of a character in Star Trek: Deep Space Nine played by Armin Shimerman."
+  Question: What is <span class='red'>Quark</span>
+
+Rounds:
+  - Categories:
+
+    - Name: Literary Neologisms<sup>JK</sup>
+      Trivia:
+        - Answer: A miserly, avaricious, greedy person, coined from the name of the main character in Charles Dickens' 1843 novella A Christmas Carol.
+          WhatIs: Scrooge
+        - Answer: An unfailingly (or blindly) optimistic, excessively (or naively) cheerful person, coined from the name of the young orphan girl in an eponymous 1913 novel by Eleanor H. Porter.
+          WhatIs: Pollyanna
+          DailyDouble: true
+        - Answer: "A paradoxical situation from which an individual cannot escape because of contradictory rules or limitations (example: You can't get a job without experience, but you can't get experience without a job), coined by Joseph Heller for the title of his 1961 novel which describes absurd bureaucratic constraints on soldiers in World War II."
+          WhatIs: Catch-22
+        - Answer: An adjective describing a situation, idea, or societal condition identified as being destructive to the welfare of a free and open society (for example, draconian control by propaganda, surveillance, disinformation, denial of truth, and manipulation of the past),coined from the name of the author of Nineteen Eighty-Four, a dystopian account of a future totalitarian state.
+          WhatIs: Orwellian
+        - Answer: Exceedingly idealistic, unrealistic and impractical, lofty and romantic, or extravagantly chivalrous, coined from the name of the romantic and misguided title character in a popular 1605 Spanish novel by Miguel de Cervantes.
+          WhatIs: Quixotic
+
+    - Name: The Notorious RBG<sup>JK</sup>
+      Trivia:
+        - Answer: In 2013, New York University law student Shana Knizhnik first crowned Supreme Court Justice Ruth Bader Ginsberg (may she rest in peace) with her Notorious RBG moniker, which is a play on this rapper’s nickname.
+          WhoIs: Biggie Smalls (The Notorious B.I.G.)
+        - Answer: RBG was nominated to the US Supreme Court by this saxophone-playing president in 1993.
+          WhoIs: Bill Clinton
+        - Answer: Like her nickname-sake (rapper Notorious BIG), RBG was born in this New York City borough, now known as an avant-garde destination for hipsters.
+          WhatIs: Brooklyn
+        - Answer: RBG not only graduated from this New York ivy league law school in 1959, she was also the first woman to be hired with tenure there in 1969.
+          WhatIs: Columbia University Law School
+        - Answer: In 1972, RBG co-founded the Women's Rights Project at this nonprofit organization founded in 1920 "to defend and preserve the individual rights and liberties guaranteed to every person in this country by the Constitution and laws of the United States"; by 1974, the Women’s Project had already participated in more than 300 gender discrimination cases.
+          WhatIs: American Civil Liberties Union (ACLU)
+
+    - Name: Pet Names Plus<sup>JK</sup>
+      Trivia:
+        - Answer: One of the best-known and most commonly sung American songs in the world, it was originally published in 1857 in Medford, MA, under the title "One Horse Open Sleigh". Also a nickname Jamie started calling her cats recently after Timski put bells on their collars.
+          WhatIs: Jingle Bells (Ginger Bells!)
+        - Answer: This jolly old, big-bellied Christmas character is often seen ringing sleigh bells, making it a great nickname for Jamie’s bell-wearing jolly old big-bellied cats.
+          WhatIs: Santa Claus (Sandy Claws haha)
+        - Answer: "The first recorded version of this popularly covered Christmas song was by Bing Crosby and Carol Richards on September 8, 1950. Lyrics include: It's Christmas time in the city, Ring-a-ling, hear them ring, Soon it will be Christmas day”. Also a nickname for Jamie’s “decorated for Christmas” cats."
+          WhatIs: Silver Bells (more Ginger Bells!!)
+        - Answer: A flowering plant grown for its bright pink colors and sweet fragrance. Also a colloquial term of endearment for something sweet or lovely; a child or a pet, for example. (Jamie uses this almost exclusively for Fela.)
+          WhatIs: Sweet Pea
+        - Answer: The parody song "Jingle Bells, Batman smells, Robin laid an egg, Batmobile lost its wheel, Joker got away" comes from the 1989 very first episode of this animated TV series. (Timski recently rewrote the lyrics to “Ginger Bells, Fela smells, Pepper laid an egg!”)
+          WhatIs: The Simpsons
+
+    - Name: These Boots Were Made for Walking<sup>JK</sup>
+      Trivia:
+        - Answer: This idiom is a reminder to practice empathy and means that you should try to understand someone (and their experiences, challenges, thought processes, and perspectives) before judging them.
+          WhatIs: Walk a mile in their shoes
+        - Answer: This idiom is a request to be quiet, or more crudely, to “shut up” and is generally used when someone is being noisy enough to annoy others.
+          WhatIs: Put a sock in it
+        - Answer: This idiom means improving your problem or situation by your own efforts, without anyone else's help. It is often used as a way to describe someone escaping poverty all by themselves (even though Jamie argues it takes interdependence, not independence to do that).
+          WhatIs: Pull yourself up by your bootstraps
+        - Answer: This idiom refers to spending the absolute minimum amount of money possible on a project. (It’s also a kind of French fry).
+          WhatIs: Shoestring budget
+        - Answer: A synonym of “the tables have turned”, this idiom is used to describe when the roles of people in a situation have been reversed, such that the advantage has shifted to a party which was previously disadvantaged.
+          WhatIs: Shoe is on the other foot
+
+    - Name: Super Huge Boobs<sup>JK</sup>
+      Trivia:
+        - Answer: The tallest living terrestrial animal, native to Africa. Also, the animal mascot of Toys R Us.
+          WhatIs: Giraffe
+        - Answer: The world's most widely consumed psychoactive drug used to reduce fatigue and drowsiness and to improve reaction time, wakefulness, concentration, and motor coordination; unlike many other psychoactive substances, it is legal and unregulated in nearly all parts of the world.
+          WhatIs: Caffeine
+        - Answer: A fungi, documented as being eaten since the Third Dynasty of Ur in the 20th century BCE. Also, a soft candy made of a chocolate mixture, typically flavored with rum and covered with cocoa.
+          WhatIs: Truffle
+        - Answer: A bulb-forming plant in the amaryllis family, widely cultivated for its trumpetlike flowers, classically in yellow but also found in white, pink, or orange.
+          WhatIs: Daffodil
+        - Answer: The right to vote in political elections, which women were finally granted in 1920 via the 19th Amendment.
+          WhatIs: Suffrage
