@@ -1,7 +1,7 @@
 Final:
   Category: Do it like they do on the Discovery Channel!
-  Answer: "This animal (whose scientific name is fittingly the Ancient Greek word for prophet) has a bad rap. Only 30% of all mating sessions end with the female biting off the head of her mate and eating it. Only 30%. Interestingly, there are evolutionary advantages to this behavior (sexual cannibalism). The male’s brain, located in the head, controls inhibition, and a ganglion in the abdomen controls the motions of copulation. Without his head, the male will lose his inhibitions but continue mating, which means he can fertilize more of the female's eggs, thus passing on more on his genes and “winning” (evolutionarily speaking). The female? She gets a good meal."
-  Question: What is <span class='red'>preying mantis</span>?
+  Answer: "This animal (whose scientific name is fittingly the Ancient Greek word for prophet) has a bad rap. Only 30% of all mating sessions end with the female biting off the head of her mate and eating it -- only <em>30%</em>! Interestingly, there are evolutionary advantages to this behavior (sexual cannibalism). The male’s brain, located in the head, controls inhibition, and a ganglion in the abdomen controls the motions of copulation. Without his head, the male will lose his inhibitions but continue mating, which means he can fertilize more of the female's eggs, thus passing on more on his genes and “winning” (evolutionarily speaking). The female? She gets a good meal."
+  Question: What is <span class='red'>praying mantis</span>?
 
 Rounds:
   - Categories:
@@ -12,13 +12,26 @@ Rounds:
           WhatIs: James and The Giant Peach
         - Answer: This 1940 American drama film was based on John Steinbeck's 1939 Pulitzer Prize-winning novel of the same name that tells the story of the Joads, an Oklahoma family, who, after losing their farm during the Great Depression in the 1930s, become migrant workers and end up in California. The title infers that the oppressed are 'ripening' in their understanding of their oppression and that the fruit of their anger is ready to be harvested.
           WhatIs: The Grapes of Wrath
-        - Answer: This 1991 American comedy-drama film is based on Fannie Flagg's 1987 novel (a feel-good story of female friendship and empowerment set in Alabama) of the same name, which comes from an ostensibly Southern fried food dish that one of the characters craves.
+        - Answer: This 1991 American comedy-drama film is based on Fannie Flagg's 1987 novel of the same name. The name of this feel-good story of female friendship and empowerment set in Alabama  comes from an ostensibly Southern fried food dish that one of the characters craves.
           WhatIs: Fried Green Tomatoes
           DailyDouble: true
         - Answer: This 1971 dystopian crime film adapted, produced, and directed by Stanley Kubrick was based on Anthony Burgess's 1962 novel of the same name, which comes from an old expression that refers to a person who has the appearance of something lovely with color and juice but is in fact only a wind-up toy to be controlled.
           WhatIs: A Clockwork Orange
         - Answer: This 2008 American buddy stoner action comedy film starring Seth Rogen and James Franco is named after a tropical fruit-flavored cannabis strain which was bred from the strains “Hawaiian” and “Trainwreck.”
           WhatIs: Pineapple Express
+
+    - Name: Sister Sister<sup>JK</sup>
+      Trivia:
+        - Answer: While sisters Marcia, Jan, and Cindy fought relentlessly with each other on this 1969-1974 TV show, they also defended and protected each other from various childhood troubles–including various teenage dramas, bullies, and their three step-brothers.
+          WhatIs: The Brady Bunch
+        - Answer: 600-year-old sisters Hilda and Zelda Spellman raise their niece who, on her sixteenth birthday, discovers she has magical powers, in this 1996-2003 TV series.
+          WhatIs: Sabrina The Teenage Witch
+        - Answer: Arya and Sansa Stark are two powerful, badass, legendary sisters who grew up in Westeros under the darkest and most devastating circumstances on this 2011-2019 HBO TV show based on George R. R. Martin's series of fantasy novels of the same name.
+          WhatIs: Game of Thrones
+        - Answer: This 2010-2015 British TV show set in the early 1900s depicts the lives of the aristocratic Crawley family, including three sisters (Lady Mary, Lady Edith, and Lady Sybil) who have wills of their own, much to the dismay of their father, the Earl of Grantham, their mother, Lady Cora, and their grandmother, the Dowager Countess of Grantham.
+          WhatIs: Downtown Abbey
+        - Answer: Sisters Prue, Piper, and Phoebe Halliwell (played by Shannen Doherty, Holly Marie Combs, and Alyssa Milano respectively) resolve their differences and use the “Power of Three” to defeat demons, ghosts, and other worldly creatures in this 1998-2006 TV series that aired on the WB.
+          WhatIs: Charmed
 
     - Name: Famous TV Dads<sup>JK</sup>
       Trivia:
@@ -30,7 +43,7 @@ Rounds:
           WhatIs: Happy Days
         - Answer: In this 1993-2004 TV show, John Mahoney played famous TV dad Martin Crane, a down-to-earth retired cop who couldn’t be more different from his two culturally refined psychiatrist sons. While he tends to be cranky and has a hard time showing his feelings, Martin truly loves his sons – even more than he loves his ratty old recliner and his sweet pup Eddy.
           WhatIs: Frasier
-        - Answer: In this 2009-2020 TV show, Ty Burrell played Phil Dunphy, a crazy goofy hobby-magician, career-realtor, and embarrassing dad to Haley, Alex, and Luke. Phil humorously attempts to strike a balance between being a friend to his children and being an effective parent. Even as kids grew up, they always knew they could depend on him.
+        - Answer: In this 2009-2020 TV show, Ty Burrell played Phil Dunphy, a crazy goofy hobby-magician, career-realtor, and embarrassing dad to Haley, Alex, and Luke. Phil humorously attempts to strike a balance between being a friend to his children and being an effective parent. Even as his kids grew up, they always knew they could depend on him.
           WhatIs: Modern Family
 
     - Name: Black Lives Matter<sup>JK</sup>
@@ -39,25 +52,12 @@ Rounds:
           WhoIs: Harriet Tubman
         - Answer: This three-time Grammy award winning poet and determined civil rights activist lived from 1928-2014. Most famous for her poetry collections “And Still I Rise” and “I Know Why the Caged Bird Sings”, she also served as the northern coordinator for Martin Luther King Jr.’s Southern Christian Leadership Conference, and worked with Malcolm X to establish the Organization of Afro-American Unity.
           WhoIs: Maya Angelou
-        - Answer: Music seemed to pour from this D.C.-born bandleader (1899 – 1974) who wrote more than 1,000 tunes including big band/swing/jazz standards like “Take the ‘A’ Train”, “In A Sentimental Mood”, and “It Don’t Mean a Thing (If It Ain’t Got That Swing)”, which earned him 11 Grammy Awards, a Presidential Medal of Freedom, a Pulitzer Prize special citation, a Songwriters Hall of Fame Award, and honorary doctorates from Howard University, Yale and Columbia.
+        - Answer: Music seemed to pour from this D.C.-born bandleader (1899 – 1974) who wrote more than 1,000 tunes including big band/swing/jazz standards like “Take the ‘A’ Train”, “In A Sentimental Mood”, and “It Don’t Mean a Thing (If It Ain’t Got That Swing)”, which earned him 11 Grammy Awards, a Presidential Medal of Freedom, a Pulitzer Prize special citation, a Songwriters Hall of Fame Award, and honorary doctorates from Howard University, Yale, and Columbia.
           WhoIs: Duke Ellington
         - Answer: As the NAACP’s lead attorney and first director-counsel of the NAACP Legal Defense and Educational Fund, his most famous victory was Brown v. Board of Education, the 1954 landmark decision that forced public schools to desegregate. As the first black supreme court justice, he compiled a liberal record that included strong support for Constitutional protection of individual rights. He lived from 1908 – 1993.
           WhoIs: Thurgood Marshall
         - Answer: This abolitionist author and orator was born in 1818 as a slave, escaped slavery by fleeing north, and settled in Lynn, MA where he published his influential autobiography in 1845. Through his vivid portrayals of brutality, the severing of familial bonds and mental torture, he documented the iniquity of slavery and disproved the Southern propaganda of the happy slave. He died in 1895, but his spirit in standing before white supremacy and calling it by its name remains.
           WhoIs: Frederick Douglass
-
-    - Name: Lyrical Idioms<sup>JK</sup>
-      Trivia:
-        - Answer: This 1956 Top-Ten hit for Bill Haley & His Comets is now used as an idiom meaning “goodbye” and is often paired with the popular response “after a while crocodile”, which is the second line of the song’s refrain.
-          WhatIs: See you later alligator
-        - Answer: This 1967 Beatles song title and lyric expresses a simple, yet profound, sentiment that was and is still often used as a refutation of war. (The story goes that this song was originally written for a live international broadcast event so John Lennon constructed the song around a basic human need that every language understood.)
-          WhatIs: All you need is love
-        - Answer: This 1958 Elvis Presley song title and lyric has become a popular catchphrase and plea not to be mean to other people or treat them badly.
-          WhatIs: Don’t be cruel
-        - Answer: This 1968 Steppenwolf song title and lyric was a rallying cry of freedom for rockers and rule breakers the world over, and is a popular phrase when describing hyper children or rambunctious teens (or Jamie’s cats).
-          WhatIs: Born to be wild
-        - Answer: This 1976 Eagle’s song title and lyric has become a popular idiom meaning to have an energetic and eventful lifestyle, especially one bringing wealth and success, full of excitement, activity, pleasure, risks, and danger.
-          WhatIs: Life in the fast lane
 
     - Name: City Singing<sup>JK</sup>
       Trivia:
@@ -80,7 +80,7 @@ Rounds:
           WhatIs: Tre<span class='red'>kk</span>ie
         - Answer: A small worthless object or cheap trinket, especially a household ornament, also called a tchotchke.
           WhatIs: Knic<span class='red'>kk</span>nack
-        - Answer: A knife with a folding blade, a dive in which the body is first bent at the waist and then straightened, or the folding of vehicle towing a trailer often caused by adverse road conditions such as an icy road surface.
+        - Answer: A knife with a folding blade, a dive in which the body is first bent at the waist and then straightened, or the folding of a vehicle towing a trailer often caused by adverse road conditions such as an icy surface.
           WhatIs: Jac<span class='red'>kk</span>nife
         - Answer: A Jewish holiday (which this year starts on October 2) named after the booths or huts in which Jews are supposed to dwell during the week-long celebration. The huts represent those in which the Israelites dwelt during their 40 years of wandering in the desert after escaping from slavery in Egypt.
           WhatIs: Su<span class='red'>kk</span>ot
@@ -93,11 +93,10 @@ Rounds:
           WhatIs: Milk
         - Answer: The name of this 2010 American action thriller film comes from Angelina Jolie’s character’s last name, not the popular table seasoning.
           WhatIs: Salt
-        - Answer: The Claude Monet painting The Seine at Argenteuil was featured in and provided the title inspiration for this 2001 American science fiction psychological thriller, whose main character, David (played by Tom Cruise), owns the painting, and his subconscious makes use of it during his lucid dreaming.
-          WhatIs: Vanilla Sky
-          DailyDouble: true
         - Answer: This 2009 American computer-animated science fiction comedy film is about an aspiring inventor who develops a machine that can convert water into food and becomes a local hero when tasty treats fall from the sky like rain, until of course the machine gains sentience and begins to develop food storms.
           WhatIs: Cloudy with a Chance of Meatballs
+        - Answer: The Claude Monet painting The Seine at Argenteuil was featured in and provided the title inspiration for this 2001 American science fiction psychological thriller, whose main character, David (played by Tom Cruise), owns the painting, and his subconscious makes use of it during his lucid dreaming.
+          WhatIs: Vanilla Sky
         - Answer: This 1988 American romantic comedy-drama inspired by a real-life restaurant in a Connecticut small town, starred Julia Roberts and was Matt Damon's film debut.
           WhatIs: Mystic Pizza
 
@@ -105,36 +104,39 @@ Rounds:
       Trivia:
         - Answer: A common sleep disorder that can make it hard to fall asleep, hard to stay asleep, or cause you to wake up too early and not be able to get back to sleep, originally from a Greek word meaning sleepless. Without its prefix, it’s not really a word!
           WhatIs: Insomnia
-        - Answer: Feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm, free from concern or excitement, originally from a French word meaning to be unconcerned. Without its prefix, it’s not really a word!
-          WhatIs: Nonchalant
-        - Answer: Done without being planned, organized, or rehearsed, as if on the spur of the moment. Without its prefix, it is not a word!
-          WhatIs: Impromptu
         - Answer: In a state of sulky dissatisfaction; angry, unhappy, annoyed, originally from a Middle English word meaning to grumble. Without its prefix, it’s not really a word!
           WhatIs: Disgruntled
         - Answer: Having an untidy or disheveled appearance, originally from an Old English word meaning not combed. Without its prefix, it’s not really a word!
           WhatIs: Unkempt
+        - Answer: Feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm, free from concern or excitement, originally from a French word meaning to be unconcerned. Without its prefix, it’s not really a word!
+          WhatIs: Nonchalant
+        - Answer: Done without being planned, organized, or rehearsed, as if on the spur of the moment. Without its prefix, it is not a word!
+          WhatIs: Impromptu
 
-    - Name: Sister Sister<sup>JK</sup>
+    - Name: Lyrical Idioms<sup>JK</sup>
       Trivia:
-        - Answer: While sisters Marcia, Jan, and Cindy fought relentlessly with each other on this 1969-1974 TV show, they also defended and protected each other from various childhood troubles –including various teenage dramas, bullies, and their three step-brothers.
-          WhatIs: The Brady Bunch
-        - Answer: 600-year-old sisters Hilda and Zelda Spellman raise their niece who, on her sixteenth birthday, discovers she has magical powers, in this 1996-2003 TV series.
-          WhatIs: Sabrina The Teenage Witch
-        - Answer: Arya and Sansa Stark are two powerful, badass, legendary sisters who grew up in Westeros under the darkest and most devastating circumstances on this 2011-2019 HBO TV show based on George R. R. Martin's series of fantasy novels of the same name.
-          WhatIs: Game of Thrones
-        - Answer: Sisters Prue, Piper, and Phoebe Halliwell (played by Shannen Doherty, Holly Marie Combs, and Alyssa Milano respectively) resolve their differences and use the “Power of Three” to defeat demons, ghosts, and other worldly creatures in this 1998-2006 TV series that aired on the WB.
-          WhatIs: Charmed
-        - Answer: This 2010-2015 British TV show set in the early 1900s depicts the lives of the aristocratic Crawley family, including three sisters (Lady Mary, Lady Edith, and Lady Sybil) who have wills of their own, much to the dismay of their father, the Earl of Grantham, their mother, Lady Cora, and their grandmother, the Dowager Countess of Grantham.
-          WhatIs: Downtown Abbey
+        - Answer: This 1956 Top-Ten hit for Bill Haley & His Comets is now used as an idiom meaning “goodbye” and is often paired with the popular response “after a while crocodile”, which is the second line of the song’s refrain.
+          WhatIs: See you later alligator
+        - Answer: This 1967 Beatles song title and lyric expresses a simple, yet profound, sentiment that is used as a refutation of war, because violence is definitely not what the world requires. (Jamie’s favorite lyric is “There's nowhere you can be that isn't where you're meant to be”.)
+          WhatIs: All you need is love
+          DailyDouble: true
+        - Answer: This 1968 Steppenwolf song title and lyric was a rallying cry of freedom for rockers and rule breakers the world over, and is a popular phrase when describing hyper children or rambunctious teens (or Jamie’s cats).
+          WhatIs: Born to be wild
+        - Answer: This 1976 Eagle’s song title and lyric has become a popular idiom meaning to have an energetic and eventful lifestyle, especially one bringing wealth and success, full of excitement, activity, pleasure, risks, and danger.
+          WhatIs: Life in the fast lane
+        - Answer: This 1958 Elvis Presley song title and lyric has become a popular catchphrase and plea not to be mean to other people or treat them badly.
+          WhatIs: Don’t be cruel
 
     - Name: Loaded Language<sup>TK</sup>
       Trivia:
-        - Answer: An idiom meaning to willingly endure a painful or unpleasant situation because it is seen as inevitable or unavoidable. Possibly (but not probably) derived from the historical practice of having surgery patients clench their teeth on an object as a way of coping with the pain.
-          WhatIs: Bite the Bullet
-        - Answer: To have a narrow escape, barely avoiding something that has the very real potential to harm or be disastrous; this idiom is believed to have been divined by soldiers who talked about having close calls with getting shot.
-          WhatIs: To dodge a bullet
-        - Answer: This idiom originated in the late 1700s and refers to the likelihood of hitting a target that is very far away. In the mid-1800s, it came to mean a horse that had very little chance of winning a race. Nowadays, it used to describe anything that is unlikely to succeed, but is worth trying.
-          WhatIs: Long Shot
-        - Answer: Literally, this idiom means to discharge a firearm while it is held below the torso. From this we get the figurative definition, which is to speak or act quickly based on first impressions without considering the bigger picture.
-          WhatIs: Shoot from the hip
+        - Answer: Originally used to describe a guard who rode alongside a stagecoach driver to be ready to ward off bandits, nowadays this idiom simply refers to sitting next to the driver in a motor vehicle.
+          WhatIs: to Ride shotgun
+        - Answer: This idiom originated in the late 1700s and refers to the likelihood of hitting a target that is very far away. In the mid-1800s, it came to mean a horse that had very little chance of winning a race. Nowadays, it is used to describe anything that is unlikely to succeed, but is worth trying.
+          WhatIs: Long shot
+        - Answer: To have a narrow escape, barely avoiding something that has the very real potential to harm or to be disastrous; this idiom is believed to have been divined by soldiers who talked about having close calls with getting shot.
+          WhatIs: to Dodge a bullet
+        - Answer: An idiom meaning to endure willingly a painful or unpleasant situation because it is seen as inevitable or unavoidable. Possibly (but not probably) derived from the historical practice of having surgery patients clench their teeth on an object as a way of coping with the pain.
+          WhatIs: to Bite the bullet
+        - Answer: Literally, this idiom means to discharge a firearm while it is held below the torso. From this we get the figurative definition, which is to speak or to act quickly based on first impressions without considering the bigger picture.
+          WhatIs: to Shoot from the hip
 
