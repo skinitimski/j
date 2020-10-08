@@ -16,7 +16,11 @@
     <table width="60%" height="70%" class="jeoparty">
         <tr class='jeoparty'>
             {% for category in categories %}
+            {% if category.Example %}
+            <th class='jeoparty' width="20%"><a href='example.answer.round{{ round_index }}.category{{ loop.index }}.html'>{{ category.Name }}</a></th>
+            {% else %}
             <th class='jeoparty' width="20%">{{ category.Name }}</th>
+            {% endif %}
             {% endfor %}
         <tr/>
         {% for prize in prizes %}

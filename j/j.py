@@ -80,6 +80,24 @@ def j(definition_path, destination_path, force):
 
             category_index = category_index0 + 1
 
+            if category_definition.Example:
+
+                question_path = f'example.question.round{round_index}.category{category_index}.html'
+
+                _render_template(
+                    join(destination_path, f'example.answer.round{round_index}.category{category_index}.html'),
+                    template_answer,
+                    answer=category_definition.Example.Answer,
+                    question_path=question_path
+                )
+
+                _render_template(
+                    join(destination_path, question_path),
+                    template_question,
+                    round_index=round_index,
+                    trivia=category_definition.Example
+                )
+
             for prize_index, prize in enumerate(prizes):
 
                 trivia = category_definition.Trivia[prize_index]
@@ -94,17 +112,18 @@ def j(definition_path, destination_path, force):
                         round_index=round_index
                     )
 
+                question_path = f'question.round{round_index}.category{category_index}.prize{prize}.html'
+
                 _render_template(
                     join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
                     template_answer,
                     answer=trivia.Answer,
-                    category_index=category_index,
-                    prize=prize,
-                    round_index=round_index
+                    question_path=question_path,
+                    prize=prize
                 )
 
                 _render_template(
-                    join(destination_path, f'question.round{round_index}.category{category_index}.prize{prize}.html'),
+                    join(destination_path, question_path),
                     template_question,
                     prize=prize,
                     round_index=round_index,

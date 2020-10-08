@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>${{ prize }}</title>
+    <title>${{ prize if prize else 0 }}</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script type="text/javascript" src="jquery-1.8.3.js"> </script>
@@ -14,7 +14,7 @@
         </tr>
         <tr class="cell">
             <td class="cell">
-                <a class="flow" href="question.round{{ round_index }}.category{{ category_index }}.prize{{ prize }}.html">Show Question</a>
+                <a class="flow" href="{{ question_path }}">Show Question</a>
             </td>
         </tr>
     </table>
