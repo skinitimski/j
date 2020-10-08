@@ -1,0 +1,39 @@
+Final:
+  Category:
+  Answer:
+  Question: What is <span class='red'></span>?
+
+Rounds:
+  - Categories:
+
+    - Name: Linguistic Dueling<sup>TK</sup>
+      Example:
+        Answer: Something about how you should not hurt the person delivering news because it may not be their fault
+        WhatIs: (Don't) shoot the messenger
+      Trivia:
+        - Answer: This idiom means to harm one's own cause or interests, either unintentionally or foolishly. Its origins trace back to World War I, referring to soldiers who injured themselves (in this case intentionally) in order to avoid service.
+          WhatIs: Shoot oneself in the foot
+        - Answer: Figuratively, an idiom meaning to maintain one's viewpoint or position in the face of opposition; literally, a phrase meaning to remain in position in battle while under fire, especially while attending to artillery.
+          WhatIs: Stick to your guns
+        - Answer: This movie series was created by Zucker, Abrahams, and Zucker (ZAZ), starred Leslie Neilsen, and was based on their earlier television series "Police Squad!" The second film in the series was numbered "2&#xBD;", and the third film was numbered "33&#x2153;".
+          WhatIs: The Naked Gun
+          DailyDouble: true
+        - Answer: Figuratively, an idiom meaning to commit to a course of action or to set a chain of events in motion; literally, to fire a gun.
+          WhatIs: Pull the trigger
+        - Answer: An idiom meaning a guess, attempt, or choice made with little or no evidence, knowledge, or experience.
+          WhatIs: Shot in the dark
+
+  - Categories:
+
+    - Name: Fire at Will!<sup>TK</sup>
+      Trivia:
+        - Answer: A word which dates to the late 1500s, originally referring to one itching to shoot a gun out of rage. Later, this word was used as a slang term for an express train. Its modern meaning -- one who is highly skilled or displaying talent in a certain field -- became popular in the 1920s and 30s.
+          WhatIs: Hotshot
+        - Answer: An idiom which has come up umpteen times in the news coverage of the Trump presidency, used to describe evidence of a crime that is difficult or impossible to refute.
+          WhatIs: Smoking Gun
+        - Answer: Literally, an idiom meaning having a tendency to shoot a firearm recklessly or without caution; figuratively, an idiom meaning inclined to behave recklessly or violently at the slightest provocation:)
+          WhatIs: Trigger-happy
+        - Answer: An idiom meaning to chat idly -- to let time pass while having a casual conversation.
+          Question: What is <span class='red'>Shoot the breeze</span>, <span class='red'>shoot the bull (no, really)</span>, or <span class='red'>shoot the shit</span>?
+        - Answer: An idiom meaning thoroughly equipped or mentally prepared, as for a demanding task, daunting situation, or violent confrontation. The phrase alludes to the heavy weaponry required to hunt large, dangerous, and hibernating game.
+          WhatIs: Loaded for bear
