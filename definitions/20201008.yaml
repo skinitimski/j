@@ -1,15 +1,48 @@
 Final:
-  Category:
-  Answer:
-  Question: What is <span class='red'></span>?
+  Category: Side Dishes<sup>JK</sup>
+  Answer: "This dance move created by James Brown in 1959 was popularized internationally after being named in the lyrics of Motown's first mega-hit \"Do You Love Me\" in 1962. The dance move begins by stepping backward with one foot with that heel tilted inward. The foot is positioned slightly behind the other (stationary) foot. With the weight on the ball of the starting foot, the heel is then swiveled outward. The same process is repeated with the other foot: step back and behind with heel inward, pivot heel out, and so on. The pattern is continued for as many repetitions as desired."
+  Question: What is <span class='red'>the Mashed Potato</span>?
 
 Rounds:
   - Categories:
 
-    - Name: Linguistic Dueling<sup>TK</sup>
+    - Name: Before and After<sup>JK</sup>
       Example:
-        Answer: Something about how you should not hurt the person delivering news because it may not be their fault
-        WhatIs: (Don't) shoot the messenger
+        Answer: |
+          A 2000 live-action film starring Jim Carrey as the green, grouchy, cave-dwelling title character, based on a Dr. Suess book.
+          <br/>PLUS
+          <br/>A 1983 holiday film known for the sexy leg lamp, the tongue-stuck-on-a-pole scene, and “you’ll shoot your eye out!”
+        WhatIs: How the Grinch Stole Christmas Story
+      Trivia:
+        - Answer: |
+            "An 1877 novel by Anna Sewell about a horse that has been made into 8 different movies. (callback: also what Jamie calls Fela)"
+            <br/>PLUS
+            <br/>A 1991 Disney animated movie with a singing teapot played by Angela Lansbury.
+          WhatIs: Black Beauty and the Beast
+        - Answer: |
+            A 1951 Rodgers and Hammerstein musical (itself based on a book) that was turned into a 1956 live action film and a 1999 animated film about an English schoolteacher and the ruler of Siam. (callback!)
+            <br/>PLUS
+            <br/>A 1997 American slasher film starring Jennifer Love Hewitt, Sarah Michelle Gellar, Ryan Phillippe, and Freddie Prinze Jr. who play four young friends stalked by a hook-wielding killer one year after covering up a car accident in which they killed a man.
+          WhatIs: The King And I Know What You Did Last Summer
+        - Answer: |
+            A 1999 film loosely based on the 1945 novel of the same name by E. B. White about an anthropomorphic mouse who gets adopted by humans.
+            <br/>PLUS
+            <br/>An 1868 novel by Louisa May Alcott that tells the store of the four March sisters—Meg, Jo, Beth, and Amy, that has been adapted to film seven times, most recently in 2019.
+          WhatIs: Stuart Little Women
+        - Answer: |
+            A 1985 American film based on the Pulitzer Prize-winning 1982 novel of the same name by Alice Walker starring Whoopi Goldberg and Oprah Winfrey.
+            <br/>PLUS
+            <br/>A 1984 American rock musical drama film starring Prince and named after one of his songs.
+          WhatIs: The Color Purple Rain
+        - Answer: |
+            A 1999 American supernatural psychological thriller film written and directed by M. Night Shyamalan that tells the story of a boy who is able to see and to talk to the dead. (another callback!)
+            <br/>PLUS
+            <br/>A 1995 film, based on an 1811 Jane Austen novel, that tells the story of the Dashwood sisters (played by Emma Thompson and Kate Winslet), who are forced to seek financial security by finding suitors for marriage (played by Alan Rickman and Hugh Grant).
+          WhatIs: The Sixth Sense and Sensibility
+
+
+
+    - Name: Linguistic Dueling<sup>TK</sup>
       Trivia:
         - Answer: This idiom means to harm one's own cause or interests, either unintentionally or foolishly. Its origins trace back to World War I, referring to soldiers who injured themselves (in this case intentionally) in order to avoid service.
           WhatIs: Shoot oneself in the foot
@@ -23,17 +56,41 @@ Rounds:
         - Answer: An idiom meaning a guess, attempt, or choice made with little or no evidence, knowledge, or experience.
           WhatIs: Shot in the dark
 
-  - Categories:
-
-    - Name: Fire at Will!<sup>TK</sup>
+    - Name: Trick or Treat<sup>JK</sup>
       Trivia:
-        - Answer: A word which dates to the late 1500s, originally referring to one itching to shoot a gun out of rage. Later, this word was used as a slang term for an express train. Its modern meaning -- one who is highly skilled or displaying talent in a certain field -- became popular in the 1920s and 30s.
-          WhatIs: Hotshot
-        - Answer: An idiom which has come up umpteen times in the news coverage of the Trump presidency, used to describe evidence of a crime that is difficult or impossible to refute.
-          WhatIs: Smoking Gun
-        - Answer: Literally, an idiom meaning having a tendency to shoot a firearm recklessly or without caution; figuratively, an idiom meaning inclined to behave recklessly or violently at the slightest provocation:)
-          WhatIs: Trigger-happy
-        - Answer: An idiom meaning to chat idly -- to let time pass while having a casual conversation.
-          Question: What is <span class='red'>Shoot the breeze</span>, <span class='red'>shoot the bull (no, really)</span>, or <span class='red'>shoot the shit</span>?
-        - Answer: An idiom meaning thoroughly equipped or mentally prepared, as for a demanding task, daunting situation, or violent confrontation. The phrase alludes to the heavy weaponry required to hunt large, dangerous, and hibernating game.
-          WhatIs: Loaded for bear
+        - Answer: Every day, 200,000,000 of these colorful candies are made; over the course of a year, that’s enough to reach from earth to the moon, so it is ironic that the candy’s slogan is “Taste the Rainbow”. These candies are consistently in the top five most popularly sold for Halloween.
+          WhatIs: Skittles
+        - Answer: This candy bar consisting of nougat topped with caramel and peanuts that has been enrobed in milk chocolate was created in 1930 and named after a horse owned by the inventor’s family. It is consistently one of the top three candies sold for Halloween.
+          WhatIs: Snickers
+        - Answer: "Almost always ranking as the #1 most sold and most preferred candy (not just for Halloween but also year round), you can find it in a variety of sizes including Big Cup, Half-Pound Cup, and Miniatures; and a variety of shapes including Heart, Pumpkin, Ghost, Christmas Tree, Bell, Bunny, and Snowman."
+          WhatIs: Reese’s Peanut Butter Cups
+        - Answer: This mildly chocolate-flavored taffy-like candy was the first penny candy to be individually wrapped in America. During World War II, American soldiers were given this candy in their rations because of the candy’s ability to withstand all weather conditions. It is consistently listed as one of the top ten Worst Halloween Candies.
+          WhatIs: Tootsie Rolls
+        - Answer: In 1949 in Colorado, Bill and Dorothy Harmsen created this sweet hard candy whose name was chosen to connote a “hospitable western company” and to represent the spirit of people in the American West. One of these candies weighs just 6 grams, so it’s crazy to think that 950,000 pounds (7 million pieces) of these are purchased for the Halloween season.
+          WhatIs: Jolly Ranchers
+
+    - Name: Don’t Play With Your Food<sup>JK</sup>
+      Trivia:
+        - Answer: This was the most popular Happy Meal toy in 1993; kids were excited to see a miniature version of their favorite doll with brushable hair in a variety of pink outfits alongside their chicken nuggets.
+          WhatIs: Barbies
+        - Answer: This was the most popular Happy Meal toy in 1983 and 1984; kids were excited that their sizzling pint-sized fries came with <em>sizzling</em> pint-sized versions of a Cadillac, T-Bird, or Corvette.
+          WhatIs: Hot Wheels
+        - Answer: This Happy Meal toy was so popular in 1997 that commotions broke out at several McDonald's locations as customers fought for them, resulting in injury, police calls, and even criminal charges, in order to collect them all, including Chocolate the moose, Chip the cat, Goldie the goldfish, and Speedy the turtle.
+          WhatIs: Beanie Babies
+        - Answer: This was the most popular Happy Meal toy in 1999; kids were excited that this furry toy’s eyes, ears, toes, and beaks moved with the push of a button, and most importantly it did not creepily talk to you like its regular-sized version.
+          WhatIs: Furby
+        - Answer: This was the most popular Happy Meal toy in 1998; kids were excited to have a keychain version of this toy, even if it didn’t function actually like the real digital pets.
+          WhatIs: Tamagotchi
+
+    - Name: BOO!<sup>JK</sup>
+      Trivia:
+        - Answer: This friendly ghost first appeared in a 1939 children’s book, and has since been seen in his own cartoons, comics, video games, and a 1995 film, which featured a scene with Devon Sawa who is the only actor to ever have played the ghost brought back to life in live-action.
+          WhoIs: Casper
+        - Answer: Moaning Myrtle is a bitter and malevolent ghost who torments female students in the ladies’ restroom and occasionally slips into the men’s restroom to spy on bathing boys in this series of books and movies about wizards.
+          WhatIs: Harry Potter
+        - Answer: "Blinky, Pinky, Inky, and Clyde, the colorful ghosts in this video game developed in 1980, were designed as playground bullies in spectral form: Blinky is bad at grammar, Inky lacks focus, Pinky has a crush on the protoganist, and Clyde is a hapless do-gooder."
+          WhatIs: Pac-Man
+        - Answer: This novel by Charles Dickens, which has been adapted in numerous forms including theatre, film, television, radio, opera, and ballet, features a variety of ghosts who help to transform the main character into a kinder, gentler man.
+          WhatIs: A Christmas Carol
+        - Answer: Slimer, also known as "The Onionhead Ghost" because of the horrible odor which he uses to scare people, was described in early drafts of the script of this 1984 movie, as “an incredibly foul-smelling amorphous vapor' with a 'green, potato-shape' who leaves “a mess of ectoplasmic slime in his wake.”
+          WhatIs: Ghostbusters
