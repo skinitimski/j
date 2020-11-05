@@ -54,6 +54,7 @@ def j(definition_path, destination_path, force):
     template_dailydouble = JINJA_ENV.get_template('dailydouble.html')
     template_answer      = JINJA_ENV.get_template('answer.html')
     template_question    = JINJA_ENV.get_template('question.html')
+    template_description = JINJA_ENV.get_template('description.html')
 
     rounds = definition.Rounds
 
@@ -96,6 +97,16 @@ def j(definition_path, destination_path, force):
                     template_question,
                     round_index=round_index,
                     trivia=category_definition.Example
+                )
+
+            elif category_definition.Description:
+
+                _render_template(
+                    join(destination_path, f'description.round{round_index}.category{category_index}.html'),
+                    template_description,
+                    description=category_definition.Description,
+                    round_index=round_index,
+                    title=category_definition.Name
                 )
 
             for prize_index, prize in enumerate(prizes):

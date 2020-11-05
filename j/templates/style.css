@@ -68,6 +68,8 @@ span { font-size: 42pt; font-family: Calibri; color: #fff }
 
 span.red { color: #f00 }
 
+span.yellow { color: yellow }
+
 p { font-size: 10pt; font-family: Courier; color: #000000 }
 
 p.serif { font-size: 10pt; font-family: Courier New; color: #000000 }
@@ -86,6 +88,8 @@ ul { font-size: 10pt; font-family: Courier; color: #000000 }
 
 ol { font-size: 10pt; font-family: Courier; color: #000000 }
 
+
+li { font-size: 42pt; font-family: Calibri; color: #fff }
 
 ul.nolabel, li.nolabel
 {

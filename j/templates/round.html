@@ -18,6 +18,8 @@
             {% for category in categories %}
             {% if category.Example %}
             <th class='jeoparty' width="20%"><a class='example' href='example.answer.round{{ round_index }}.category{{ loop.index }}.html'>{{ category.Name }}</a></th>
+            {% elif category.Description %}
+            <th class='jeoparty' width="20%"><a class='example' href='description.round{{ round_index }}.category{{ loop.index }}.html'>{{ category.Name }}</a></th>
             {% else %}
             <th class='jeoparty' width="20%">{{ category.Name }}</th>
             {% endif %}
