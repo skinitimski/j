@@ -68,7 +68,9 @@ def j(definition_path, destination_path, force):
 
             categories = round_definition.Categories
 
-            prizes = [(p + 1) * round_index * 100 for p in range(5)]
+            base_prize = 100 * (1 if round_index == 1 else 2)
+
+            prizes = [(p + 1) * base_prize for p in range(5)]
 
             _render_template(
                 join(destination_path, f'round{round_index}.html'),
