@@ -64,82 +64,84 @@ def j(definition_path, destination_path, force):
 
         round_index = round_index0 + 1
 
-        categories = round_definition.Categories
+        if round_definition.Categories:
 
-        prizes = [(p + 1) * round_index * 100 for p in range(5)]
+            categories = round_definition.Categories
 
-        _render_template(
-            join(destination_path, f'round{round_index}.html'),
-            template_round,
-            categories=categories,
-            round_count=round_count,
-            round_index=round_index,
-            prizes=prizes
-        )
+            prizes = [(p + 1) * round_index * 100 for p in range(5)]
 
-        for category_index0, category_definition in enumerate(categories):
+            _render_template(
+                join(destination_path, f'round{round_index}.html'),
+                template_round,
+                categories=categories,
+                round_count=round_count,
+                round_index=round_index,
+                prizes=prizes
+            )
 
-            category_index = category_index0 + 1
+            for category_index0, category_definition in enumerate(categories):
 
-            if category_definition.Example:
+                category_index = category_index0 + 1
 
-                question_path = f'example.question.round{round_index}.category{category_index}.html'
+                if category_definition.Example:
 
-                _render_template(
-                    join(destination_path, f'example.answer.round{round_index}.category{category_index}.html'),
-                    template_answer,
-                    answer=category_definition.Example.Answer,
-                    question_path=question_path
-                )
-
-                _render_template(
-                    join(destination_path, question_path),
-                    template_question,
-                    round_index=round_index,
-                    trivia=category_definition.Example
-                )
-
-            elif category_definition.Description:
-
-                _render_template(
-                    join(destination_path, f'description.round{round_index}.category{category_index}.html'),
-                    template_description,
-                    description=category_definition.Description,
-                    round_index=round_index,
-                    title=category_definition.Name
-                )
-
-            for prize_index, prize in enumerate(prizes):
-
-                trivia = category_definition.Trivia[prize_index]
-
-                if trivia.DailyDouble:
+                    question_path = f'example.question.round{round_index}.category{category_index}.html'
 
                     _render_template(
-                        join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'),
-                        template_dailydouble,
-                        category_index=category_index,
-                        prize=prize,
-                        round_index=round_index
+                        join(destination_path, f'example.answer.round{round_index}.category{category_index}.html'),
+                        template_answer,
+                        answer=category_definition.Example.Answer,
+                        question_path=question_path
                     )
 
-                question_path = f'question.round{round_index}.category{category_index}.prize{prize}.html'
+                    _render_template(
+                        join(destination_path, question_path),
+                        template_question,
+                        round_index=round_index,
+                        trivia=category_definition.Example
+                    )
 
-                _render_template(
-                    join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
-                    template_answer,
-                    answer=trivia.Answer,
-                    question_path=question_path,
-                    prize=prize
-                )
+                elif category_definition.Description:
 
-                _render_template(
-                    join(destination_path, question_path),
-                    template_question,
-                    prize=prize,
-                    round_index=round_index,
-                    trivia=trivia
-                )
+                    _render_template(
+                        join(destination_path, f'description.round{round_index}.category{category_index}.html'),
+                        template_description,
+                        description=category_definition.Description,
+                        round_index=round_index,
+                        title=category_definition.Name
+                    )
+
+                for prize_index, prize in enumerate(prizes):
+
+                    trivia = category_definition.Trivia[prize_index]
+
+                    if trivia.DailyDouble:
+
+                        _render_template(
+                            join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'),
+                            template_dailydouble,
+                            category_index=category_index,
+                            prize=prize,
+                            round_index=round_index
+                        )
+
+                    question_path = f'question.round{round_index}.category{category_index}.prize{prize}.html'
+
+                    _render_template(
+                        join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
+                        template_answer,
+                        answer=trivia.Answer,
+                        question_path=question_path,
+                        prize=prize
+                    )
+
+                    _render_template(
+                        join(destination_path, question_path),
+                        template_question,
+                        prize=prize,
+                        round_index=round_index,
+                        trivia=trivia
+                    )
 
     _render_template(
         join(destination_path, FINAL),
