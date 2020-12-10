@@ -2,6 +2,8 @@ from argparse import ArgumentParser
 
 from jinja2 import Environment, PackageLoader
 
+from itertools import islice
+
 from munch import DefaultMunch
 
 from os import makedirs
@@ -27,6 +29,15 @@ END            = 'end.html'
 
 JINJA_ENV = Environment(loader=PackageLoader('j'))
 
+TEMPLATE_ROUND               = JINJA_ENV.get_template('round.html')
+TEMPLATE_ROUND_HOMONYMS      = JINJA_ENV.get_template('round.homonyms.html')
+TEMPLATE_DAILYDOUBLE         = JINJA_ENV.get_template('dailydouble.html')
+TEMPLATE_ANSWER              = JINJA_ENV.get_template('answer.html')
+TEMPLATE_QUESTION            = JINJA_ENV.get_template('question.html')
+TEMPLATE_DESCRIPTION         = JINJA_ENV.get_template('description.html')
+TEMPLATE_HOMONYM_DEFINITIONS = JINJA_ENV.get_template('homonym.definitions.html')
+TEMPLATE_HOMONYM_ANSWER      = JINJA_ENV.get_template('homonym.answer.html')
+
 
 def main():
 
@@ -50,12 +61,6 @@ def j(definition_path, destination_path, force):
 
     definition = _read_definition(definition_path)
 
-    template_round       = JINJA_ENV.get_template('round.html')
-    template_dailydouble = JINJA_ENV.get_template('dailydouble.html')
-    template_answer      = JINJA_ENV.get_template('answer.html')
-    template_question    = JINJA_ENV.get_template('question.html')
-    template_description = JINJA_ENV.get_template('description.html')
-
     rounds = definition.Rounds
 
     round_count = len(rounds)
@@ -64,86 +69,23 @@ def j(definition_path, destination_path, force):
 
         round_index = round_index0 + 1
 
-        if round_definition.Categories:
+        if round_definition.Homonyms:
 
-            categories = round_definition.Categories
-
-            base_prize = 100 * (1 if round_index == 1 else 2)
-
-            prizes = [(p + 1) * base_prize for p in range(5)]
-
-            _render_template(
-                join(destination_path, f'round{round_index}.html'),
-                template_round,
-                categories=categories,
-                round_count=round_count,
-                round_index=round_index,
-                prizes=prizes
+            _render_homonyms(
+                round_definition.Homonyms,
+                round_index,
+                round_count,
+                destination_path
             )
 
-            for category_index0, category_definition in enumerate(categories):
+        if round_definition.Categories:
 
-                category_index = category_index0 + 1
-
-                if category_definition.Example:
-
-                    question_path = f'example.question.round{round_index}.category{category_index}.html'
-
-                    _render_template(
-                        join(destination_path, f'example.answer.round{round_index}.category{category_index}.html'),
-                        template_answer,
-                        answer=category_definition.Example.Answer,
-                        question_path=question_path
-                    )
-
-                    _render_template(
-                        join(destination_path, question_path),
-                        template_question,
-                        round_index=round_index,
-                        trivia=category_definition.Example
-                    )
-
-                elif category_definition.Description:
-
-                    _render_template(
-                        join(destination_path, f'description.round{round_index}.category{category_index}.html'),
-                        template_description,
-                        description=category_definition.Description,
-                        round_index=round_index,
-                        title=category_definition.Name
-                    )
-
-                for prize_index, prize in enumerate(prizes):
-
-                    trivia = category_definition.Trivia[prize_index]
-
-                    if trivia.DailyDouble:
-
-                        _render_template(
-                            join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'),
-                            template_dailydouble,
-                            category_index=category_index,
-                            prize=prize,
-                            round_index=round_index
-                        )
-
-                    question_path = f'question.round{round_index}.category{category_index}.prize{prize}.html'
-
-                    _render_template(
-                        join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
-                        template_answer,
-                        answer=trivia.Answer,
-                        question_path=question_path,
-                        prize=prize
-                    )
-
-                    _render_template(
-                        join(destination_path, question_path),
-                        template_question,
-                        prize=prize,
-                        round_index=round_index,
-                        trivia=trivia
-                    )
+            _render_categories(
+                round_definition.Categories,
+                round_index,
+                round_count,
+                destination_path
+            )
 
     _render_template(
         join(destination_path, FINAL),
@@ -206,3 +148,121 @@ def _render_template(path, template, **data):
     with open(path, 'w') as f:
 
         f.write(page)
+
+
+def _render_homonyms(homonyms, round_index, round_count, destination_path):
+
+    _render_template(
+        join(destination_path, f'round{round_index}.html'),
+        TEMPLATE_ROUND_HOMONYMS,
+        homonyms=homonyms,
+        round_count=round_count,
+        round_index=round_index
+    )
+
+    for homonym_index0, homonym in enumerate(homonyms):
+
+        homonym_index = homonym_index0 + 1
+
+        for definition_index0, definition in enumerate(homonym.Definitions):
+
+            definition_index = definition_index0 + 1
+
+            prize = 1000 - 200 * definition_index0
+
+            _render_template(
+                join(destination_path, f'definition{definition_index}.round{round_index}.homonym{homonym_index}.html'),
+                TEMPLATE_HOMONYM_DEFINITIONS,
+                round_index=round_index,
+                homonym_index=homonym_index,
+                definitions=list(islice(homonym.Definitions, definition_index)),
+                prize=prize,
+            )
+
+            _render_template(
+                join(destination_path, f'answer.round{round_index}.homonym{homonym_index}.html'),
+                TEMPLATE_HOMONYM_ANSWER,
+                round_index=round_index,
+                homonym_index=homonym_index,
+                homonym=homonym.Homonym
+            )
+
+
+def _render_categories(categories, round_index, round_count, destination_path):
+
+    base_prize = 100 * (1 if round_index == 1 else 2)
+
+    prizes = [(p + 1) * base_prize for p in range(5)]
+
+    _render_template(
+        join(destination_path, f'round{round_index}.html'),
+        TEMPLATE_ROUND,
+        categories=categories,
+        round_count=round_count,
+        round_index=round_index,
+        prizes=prizes
+    )
+
+    for category_index0, category_definition in enumerate(categories):
+
+        category_index = category_index0 + 1
+
+        if category_definition.Example:
+
+            question_path = f'example.question.round{round_index}.category{category_index}.html'
+
+            _render_template(
+                join(destination_path, f'example.answer.round{round_index}.category{category_index}.html'),
+                TEMPLATE_ANSWER,
+                answer=category_definition.Example.Answer,
+                question_path=question_path
+            )
+
+            _render_template(
+                join(destination_path, question_path),
+                TEMPLATE_QUESTION,
+                round_index=round_index,
+                trivia=category_definition.Example
+            )
+
+        elif category_definition.Description:
+
+            _render_template(
+                join(destination_path, f'description.round{round_index}.category{category_index}.html'),
+                TEMPLATE_DESCRIPTION,
+                description=category_definition.Description,
+                round_index=round_index,
+                title=category_definition.Name
+            )
+
+        for prize_index, prize in enumerate(prizes):
+
+            trivia = category_definition.Trivia[prize_index]
+
+            if trivia.DailyDouble:
+
+                _render_template(
+                    join(destination_path, f'dailydouble.round{round_index}.category{category_index}.prize{prize}.html'),
+                    TEMPLATE_DAILYDOUBLE,
+                    category_index=category_index,
+                    prize=prize,
+                    round_index=round_index
+                )
+
+            question_path = f'question.round{round_index}.category{category_index}.prize{prize}.html'
+
+            _render_template(
+                join(destination_path, f'answer.round{round_index}.category{category_index}.prize{prize}.html'),
+                TEMPLATE_ANSWER,
+                answer=trivia.Answer,
+                question_path=question_path,
+                prize=prize
+            )
+
+            _render_template(
+                join(destination_path, question_path),
+                TEMPLATE_QUESTION,
+                prize=prize,
+                round_index=round_index,
+                trivia=trivia
+            )

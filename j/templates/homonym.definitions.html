@@ -1,0 +1,38 @@
+<html>
+<head>
+    <title>${{ prize if prize else 0 }}</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <script type="text/javascript" src="jquery-1.8.3.js"> </script>
+</head>
+<body>
+    <table class="cell" style="width: 60%">
+        <tr class="cell">
+            <td class="cell">
+                <span style="font-size: 72pt">For <span style="font-size: 72pt" class='red'>${{ prize }}</span> ...</span>
+            </td>
+        </tr>
+        {% for definition in definitions %}
+        <tr class="cell">
+            <td class="cell">
+                <span>{{ loop.index }}. {{ definition }}</span>
+            </td>
+        </tr>
+        {% endfor %}
+        {% if definitions | length is lt 5 %}
+        <tr class="cell">
+            <td class="cell">
+                <a class="flow" href="definition{{ (definitions | length) + 1 }}.round{{round_index}}.homonym{{ homonym_index }}.html">Next Definition</a>
+            </td>
+        </tr>
+        {% endif %}
+        <tr class="cell">
+            <td class="cell">
+                <a class="flow" href="answer.round{{round_index}}.homonym{{ homonym_index }}.html">Show Word</a>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+

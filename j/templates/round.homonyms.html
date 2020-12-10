@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Jeoparty - Round {{ round_index }}</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <script type="text/javascript" src="jquery-1.8.3.js"> </script>
+</head>
+<body>
+    <table class="cell">
+        <tr class="cell">
+            <td class="cell">
+                <span>Jeoparty! Round {{ round_index }}</span>
+            </td>
+        </tr>
+    </table>
+    <table width="20%" class="jeoparty">
+        <tr class='jeoparty'>
+            <th class='jeoparty' width="20%">Homonyms</th>
+        <tr/>
+        {% for homonym in homonyms %}
+        <tr class='jeoparty'>
+            <td class='jeoparty'>
+                <a class="answer" href="definition1.round{{ round_index }}.homonym{{ loop.index }}.html">{{ loop.index }}</a>
+            </td>
+        <tr/>
+        {% endfor %}
+    </table>
+    <table class="cell">
+        <tr class="cell">
+            <td class="cell">
+                {% if round_index == round_count %}
+                <a href="final.html">To Final Jeoparty</a>
+                {% else %}
+                {% set next_round = round_index + 1 %}
+                <a href="round{{ next_round }}.html">To Round {{ next_round }}</a>
+                {% endif %}
+            </td>
+        </tr>
+        {% if round_index > 1 %}
+        {% set previous_round = round_index - 1 %}
+        <tr class="cell">
+            <td class="cell">
+                <a href="round{{ previous_round }}.html">To Round {{ previous_round }}</a>
+            </td>
+        </tr>
+        {% endif %}
+    </table>
+</body>
+</html>
