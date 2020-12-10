@@ -19,7 +19,7 @@
             </td>
         </tr>
         {% endfor %}
-        {% if definitions | length is lt 5 %}
+        {% if definitions | length is lt last_definition %}
         <tr class="cell">
             <td class="cell">
                 <a class="flow" href="definition{{ (definitions | length) + 1 }}.round{{round_index}}.homonym{{ homonym_index }}.html">Next Definition</a>

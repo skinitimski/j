@@ -9,12 +9,17 @@
     <table class="cell" style="width: 60%">
         <tr class="cell">
             <td class="cell">
-                <span style="font-size: 72pt">{{ homonym }}</span>
+                <span>The word is</span>
             </td>
         </tr>
         <tr class="cell">
             <td class="cell">
-                <a class="flow" href="definition5.round{{round_index}}.homonym{{ homonym_index }}.html">View Definitions</a>
+                <span style="font-size: 72pt" class='red'>{{ homonym }}</span>
+            </td>
+        </tr>
+        <tr class="cell">
+            <td class="cell">
+                <a class="flow" href="definition{{ last_definition }}.round{{round_index}}.homonym{{ homonym_index }}.html">View Definitions</a>
             </td>
         </tr>
         <tr class="cell">

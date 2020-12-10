@@ -164,6 +164,17 @@ def _render_homonyms(homonyms, round_index, round_count, destination_path):
 
         homonym_index = homonym_index0 + 1
 
+        last_definition = len(homonym.Definitions)
+
+        _render_template(
+            join(destination_path, f'answer.round{round_index}.homonym{homonym_index}.html'),
+            TEMPLATE_HOMONYM_ANSWER,
+            round_index=round_index,
+            homonym_index=homonym_index,
+            homonym=homonym.Homonym,
+            last_definition=last_definition
+        )
+
         for definition_index0, definition in enumerate(homonym.Definitions):
 
             definition_index = definition_index0 + 1
@@ -177,14 +188,7 @@ def _render_homonyms(homonyms, round_index, round_count, destination_path):
                 homonym_index=homonym_index,
                 definitions=list(islice(homonym.Definitions, definition_index)),
                 prize=prize,
-            )
-
-            _render_template(
-                join(destination_path, f'answer.round{round_index}.homonym{homonym_index}.html'),
-                TEMPLATE_HOMONYM_ANSWER,
-                round_index=round_index,
-                homonym_index=homonym_index,
-                homonym=homonym.Homonym
+                last_definition=last_definition
             )
 
 
