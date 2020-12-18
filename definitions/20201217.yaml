@@ -1,0 +1,83 @@
+Final:
+  Category: X(mas) Arithmetic
+  Answer: |
+    <h2>Solve for X:</h2>
+    <span class='red'>C</span>(<span class='red'>A</span>+<span class='red'>B</span>) = <span class='red'>X</span>
+    <br/>
+    <br/>
+    <em>where</em>
+    <br/>
+    <br/>
+    <span class='red'>A</span>= ___ Geese-A-Laying
+    <br/>
+    <span class='red'>B</span>= ___ Nights of Hanukkah
+    <br/>
+    <span class='red'>C</span>= We ___ Kings
+  Question: What is 3(6 + 8) = <span class='red'>42</span>?
+
+Rounds:
+  - Categories:
+      - Name: Born in 1969<sup>JK</sup>
+        Trivia:
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the October 1969 issue of New York Times Magazine. It is the acronym of the criminal offense of operating a motor vehicle while drunk or high.
+          WhatIs: DUI
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the January 1969 issue of the Bakersfield Californian. It is a shot made by jumping up and pushing a basketball downward into the basket with the hand or hands above the rim.
+          WhatIs: Slam Dunk
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the 1969 issue of Groupie Magazine. It is a person employed by a band of musicians to set up and maintain equipment while the band is on tour.
+          WhatIs: Roadie
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the 1969 publication called “Programming Languages.” It is a software facility by which a user's work is regularly protected for later retrieval if there is an unexpected system shutdown.
+          WhatIs: Autosave
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the July 1969 issue of Science Magazine. It is a tiny wafer of semiconducting material that is used in computers and can also be inserted into pets to help find them when lost.
+          WhatIs: Microchip
+
+      - Name: Winter Idioms<sup>JK</sup>
+        Trivia:
+        - Answer: This winter-themed idiom means to be in a precarious, risky, dangerous or uncertain situation.
+          WhatIs: On thin ice
+        - Answer: This winter-themed idiom is used to describe a situation in which something increases in size or importance at a faster and faster rate.
+          WhatIs: Snowball effect
+        - Answer: This winter-themed idiom is used to express dismissal or the act of disregarding or ignoring someone and dates back to an 1816 translation by Sir Walter Scott of the bible verse “…stubbornly they turned their backs on you.”
+          WhatIs: Cold shoulder
+        - Answer: This idiom means to deal with a difficult situation without too much harm or damage, as if surviving an extended meteorological event.
+          WhatIs: Weather the storm
+        - Answer: This winter-themed idiom means to be ignored, forgotten, or excluded, as from a group or activity.
+          WhatIs: Left out in the cold
+
+      - Name: TV Theme Songs<sup>JK</sup>
+        Trivia:
+        - Answer: "This animated American TV sitcom aired from 1960 to 1966; its theme song featured these lyrics: \"They're the modern stone age family…They're a page right out of history.\""
+          WhatIs: The Flintstones
+        - Answer: "This American TV sitcom aired from 1964 to 1967; its theme song featured these lyrics: \"The weather started getting rough / The tiny ship was tossed / If not for the courage of the fearless crew / The Minnow would be lost\""
+          WhatIs: Gilligan's Island
+        - Answer: "This American TV sitcom aired from 1975 to 1985; its theme song featured these lyrics: \"Well, we're moving on up to the East side / To a deluxe apartment in the sky / Moving on up to the East side / We finally got a piece of the pie.\""
+          WhatIs: The Jeffersons
+        - Answer: "This American TV sitcom aired from 2007 to 2019; its theme song featured these lyrics: \"Our whole universe was in a hot, dense state / Then nearly fourteen billion years ago expansion started, wait / The earth began to cool, the autotrophs began to drool / Neanderthals developed tools.\""
+          WhatIs: Big Bang Theory
+        - Answer: "This American TV sitcom aired from 1998-2006; its theme song featured these lyrics: \"Hangin' out / Down the street / The same old thing / We did last week / Not a thing to do / But talk to you / We're all alright.\""
+          WhatIs: That 70s Show
+
+      - Name: To Hell With Idioms<sup>JK</sup>
+        Trivia:
+        - Answer: This idiom is used to say that something will absolutely never happen; it originates from a 19th century belief that Satan’s abode is the hottest place in the universe, with a 0% chance that the temperature would drop to 32 °F.
+          WhatIs: Hell Freezes Over
+        - Answer: This idiom is used to describe a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments, and comes from the title of the person in the Roman Catholic Church who challenges the verification of a miracle.
+          WhatIs: Devil’s Advocate
+        - Answer: This idiom means to move extremely fast; it originated in the early 1900s from the rapid darting movement of the flying creatures it references.
+          WhatIs: Like a Bat out of hell
+        - Answer: This idiom, traced back to the 16th century when mentioning anything to do with Satan was prohibited, is used when an object of discussion unexpectedly becomes present during the conversation.
+          WhatIs: Speak of the Devil
+        - Answer: This idiom means that the littlest things are not only important but are not as simple as they appear and often take a lot more time and effort than expected.
+          WhatIs: Devil’s in the Details
+
+      - Name: Claim to Fame (B&A)<sup>JK</sup>
+        Trivia:
+        - Answer: Actor born in 1974 who starred in What’s Eating Gilbert Grape, Romeo & Juliet, Titanic, Catch Me if You Can, and The Departed meets American talk show host, television producer, actress, author, philanthropist, and richest African American of the 20th century born in 1954.
+          WhatIs: Leonardo DiCaprioprah Winfrey
+        - Answer: American actress born in 1967 best known for headlining the romantic comedy film Pretty Woman (1990), which grossed $464 million worldwide meets an American poet born in 1874 best known for his poem The Road Not Taken.
+          WhatIs: Julia Robert Frost
+        - Answer: American actress born in 1980 and widow of Heath Ledger, who starred in Dawson’s Creek, Brokeback Mountain, Manchester by the Sea, and Shutter Island, meets an English playwright born in 1564 known as the world’s greatest dramatist; his plays have been translated into every major living language.
+          WhatIs: Michelle William Shakespeare
+        - Answer: English actress, singer, dancer, and author born in 1935 best known for starring in Mary Poppins and The Sound of Music meets an English composer of 21 musicals including Phantom of the Opera, Jesus Christ Superstar, Evita, and Cats.
+          WhatIs: Julie Andrew Lloyd Webber
+        - Answer: Celebrity born in 1942 with a career spanning seven decades who is one of the few entertainers who have been awarded an Emmy, Grammy, Oscar, and Tony Award; her first film was an adaptation of the musical Funny Girl meets an actress born in 1964 and star of Speed, Miss Congeniality, The Blind Side, Gravity, and Bird Box.
+          WhatIs: Barbara Streisandra Bullock
