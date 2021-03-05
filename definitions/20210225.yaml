@@ -1,0 +1,179 @@
+Final:
+  Category: Odd Word Out<sup>JK</sup>
+  Answer: Which one of these words doesn't belong with the rest? <br/><br/>TIN<br/>MINIM<br/>MILITIA<br/>SIEVE<br/>LINEN<br/>EVE<br/>AVOID<br/>
+  Question: Linen does not belong. The other words have Roman numerals featured inside each word(every other letter) in numerical order. <br/> <br/>T<span class='red'>I</span>N <br/>M<span class='red'>I</span>N<span class='red'>I</span>M <br/>M<span class='red'>I</span>L<span class='red'>I</span>T<span class='red'>I</span>A <br/>S<span class='red'>I</span>E<span class='red'>V</span>E <br/><strike>LINEN</strike><br/>E<span class='red'>V</span>E <br/>A<span class='red'>V</span>O<span class='red'>I</span>D
+Rounds:
+  - Categories:
+    - Name: Born in 1925<sup>JK</sup>
+      Description: |
+        This category features words first seen in print in the year 1925.
+      Trivia:
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the February 1925 issue of the Bradford (PA) Era Magazine. It is a term used to describe someone with whom you exchange written letters.
+          WhatIs: Pen Pal
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the May 1925 issue of Punch Magazine. It is a large, spiraled, bass, brass instrument used in marching bands named for a famous composer. (In the magazine, it is described as twenty feet long and weighing eighteen pounds).
+          WhatIs: Sousaphone
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to US Patent No 1,566,796 granted in 1925. It means to reuse (material) in an industrial process; to return (material) to a previous stage of its created process.
+          WhatIs: Recycle
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to US Patent Office's Official Gazette in April 1925. It is solid carbon dioxide used to keep things cold.
+          WhatIs: Dry Ice
+        - Answer: The Oxford English Dictionary tracks the first usage of this term in print to the 1925 publication “Reflections on the Death of a Porcupine” by D.H. Lawrence. He uses the word to describe a chipmunk because of its resemblance to this other, related rodent creature, but it can also be used to describe a person who is restless, nervous, or unpredictable.
+          WhatIs: Squirrelly
+
+    - Name: Hooked On Phonics<sup>JK</sup>
+      Description: |
+        This category features homographs, which are words that are spelled the same -- but are not necessarily pronounced the same -- and have different meanings.
+      Trivia:
+        - Answer: Common freshwater fish OR the lowest adult male singing voice.
+          WhatIs: Bass (bas / b&#x0101;s)
+        - Answer: Knot tied with two loops and two loose ends OR to bend the body as a sign of respect or greeting.
+          WhatIs: Bow (b&#x014D; / bou)
+        - Answer: Period of time equal to a sixtieth of an hour OR extremely small.
+          WhatIs: Minute (minit / m&#x012B;ˈn&#x014D;&#x014D;t)
+        - Answer: Be in charge of OR chemical element with atomic number 82.
+          DailyDouble: true
+          WhatIs: Lead (l&#x0113;d / led)
+        - Answer: Natural movement of air OR to twist or wrap around
+          WhatIs: Wind / w&#x012B;nd
+
+    - Name: "Friends List: The Trifecta<sup>JK</sup>"
+      Description: |
+        This category features MORE songs with YOUR names in the titles!
+      Trivia:
+        - Answer: "The 1972 song \"Ben\", written for a movie of the same name, was this moonwalking musician's first number 1 solo hit (which made him the third-youngest solo artist, at 14, to score a number 1 hit single). He sang: \"Ben, most people would turn you away, I don't listen to a word they say, They don't see you as I do, I wish they would try to, I'm sure they'd think again, If they had a friend like Ben.\""
+          WhoIs: Michael Jackson
+        - Answer: "This English rock band wrote a rock opera in 1969 called \"Tommy\" which tells the story of a \"deaf, dumb, and blind\" kid who becomes a \"Pinball Wizard\" and then a spiritual leader. The only lyrics in a 1 minute 35 second long song featured on the album are: \"Tommy can you hear me?, Can you feel me near you?, Tommy can you see me?, Can I help to cheer you?, Ooooh Tommy.\""
+          WhoIs: The Who
+        - Answer: "This American folk rock vocal group (consisting of two female and two male vocalists) debuted in 1965 with hits \"California Dreamin'\" and \"Monday, Monday\". In 1971, they released the song \"Lady Genevieve\" and sang: \"Night has come, So spread your wings. While they all are sleeping, Try the wind. Your wings shall mend. Happily conceive, Lady Genevieve.\""
+          WhoAre: The Mamas & the Papas
+        - Answer: "This now 77-year-old American singer-songwriter, arranger, musician, producer, and actor who has a career spanning more than 50 years, with 51 Top 40 singles (13 at number one) including \"Could It Be Magic\" and \"Copacabana\", sang in his song \"Mandy\" in 1974: \"Oh Mandy well, you came and you gave without taking, but I sent you away. Oh, Mandy well, kissed me and stopped me from shaking, and I need you today. Oh, Mandy!\""
+          WhoIs: Barry Manilow
+        - Answer: "American indie pop band formed in 2001 best known for their first full-length album \"Zombies! Aliens! Vampires! Dinosaurs!\" featuring the song \"Here (in your arms)\", sang in their 2004 song \"Dear Jamie...Sincerely Me\": \"Dear Jamie I've got some things I'd like to set in pen, I would have used a pencil but that's just not permanent. Should I trust my printer's ink? To express the things I think?\""
+          WhoIs: Hellogoodbye
+
+    - Name: That's What She Said<sup>JK</sup>
+      Description: |
+        This category features quotes by famous women.
+      Trivia:
+        - Answer: This now 57-year-old first African-American first lady famously said at the 2016 Democratic National Convention, "When they go low, we go high."
+          WhoIs: Michelle Obama
+        - Answer: This actress, singer, and dancer born in 1922 best known for portraying Dorothy Gale in "The Wizard of Oz" in 1939 once said, "Always be a first-rate version of yourself instead of a second-rate version of somebody else."
+          WhoIs: Judy Garland
+        - Answer: This 66-year-old, who has served as the first female chancellor of Germany since 2005 and is widely described as the most powerful woman in the world, once said, "A good compromise is one where everybody makes a contribution."
+          WhoIs: Angela Merkel
+        - Answer: Born in 1907 and died in 2003, this American actress, whose career spanned 60 years on film, stage, and television, received four Academy Awards for Best Actress (a record for any performer), for "Morning Glory" (1934), "Guess Who's Coming to Dinner" (1968), "The Lion in Winter" (1969), and "On Golden Pond" (1982), co-starred in 9 films with Spencer Tracy, with whom she had a decades long affair, and once said, "If you obey all the rules, you miss all the fun."
+          WhoIs: Katharine Hepburn
+        - Answer: "An American novelist who wrote only two books: \"To Kill a Mockingbird\" (1960), which won the 1961 Pulitzer Prize and has become a classic of modern American literature, and what was first called its sequel but is actually its first draft, \"Go Set a Watchman\" (2015), once said, \"Many receive advice, only the wise profit from it.\""
+          WhoIs: Harper Lee
+
+
+  - Homonyms:
+
+    - Homonym: Meat
+      Definitions:
+      - The penis.
+      - One&#39;s specialty or particular field of interest.
+      - A means of support, strength, or nourishment.
+      - The gist or main part (of a story, situation, etc).
+      - The flesh of animals used as food.
+
+    - Homonym: Hose
+      Definitions:
+      - The penis.
+      - The socket of any metal tool which receives the handle or shaft.
+      - To water or drench.
+      - Stockings reaching to the knee.
+      - A flexible tube or pipe for the conveyance of water.
+
+    - Homonym: Pair
+      Definitions:
+      - Boobs.
+      - Horses harnessed or yoked together, usually in order to draw a vehicle.
+      - Two birds mated together.
+      - Two playing cards of the same denomination, esp. as a scoring unit.
+      - A single item consisting of two joined parts not used separately, like scissors or pants.
+
+    - Homonym: Melons
+      Definitions:
+      - Boobs.
+      - Rounded organs of many toothed whales, made of waxy material used to focus acoustic signals.
+      - Slang in Australia and New Zealand for ignorant, naive, or foolish people.
+      - Heads of people.
+      - Fruits with smooth, netted, or warty rinds and sweet pulpy flesh which can be green, orange, or yellowish pink.
+
+    - Homonym: Jugs
+      Definitions:
+      - Boobs.
+      - Sleeping places of partridges, where they nestle together.
+      - In rock climbing and mountaineering, large handholds that are easy to grip.
+      - Instruments in a street band made of recycled bottles.
+      - Deep vessels, of varying shape and size, for holding liquids.
+
+    - Homonym: Cans
+      Definitions:
+      - Boobs.
+      - Rooms containing a toilet.
+      - Prison, jails, or cells in a police station.
+      - Small metal containers in which food is hermetically sealed for long-term preservation.
+      - Aluminum containers for beverages opened by means of a pull tab.
+
+  - Categories:
+    - Name: Movie Mashup<sup>JK</sup>
+      Description: |
+        This category features Before and Afters with movie titles and other famous media.
+      Trivia:
+        - Answer: A 1993 "giant monster film" directed by Steven Spielberg, filmed in Hawaii, starring Sam Neill, Laura Dern, and Jeff Goldblum, and based on the 1990 novel of the same name by Michael Crichton <span class='red'>meets</span> a "political satire mockumentary sitcom" that aired on NBC from 2009 to 2015, starring Amy Poehler, Aziz Ansari, and Nick Offerman.
+          WhatIs: Jurassic Parks and Recreation
+        - Answer: Spinach-eating fictional cartoon character created by E.C. Segar in 1929, portrayed by Robin Williams in a 1980 live-action film <span class='red'>meets</span> a Japanese manga and anime character introduced in 1991 with a black cat sidekick named Luna who together fight to save Earth from forces of evil.
+          WhatIs: Popeye the Sailor Moon
+        - Answer: 1976 film starring Robert Redford and Dustin Hoffman about Washington Post reporters Bob Woodward and Carl Bernstein who uncover the details of Nixon's Watergate scandal <span class='red'>meets</span> a 1997 science fiction action comedy film starring Tommy Lee Jones and Will Smith as agents of a secret organization who supervise extraterrestrial lifeforms who live on Earth.
+          WhatIs: All the President's Men in Black
+        - Answer: A 1968 horror film written, directed, photographed, and edited by George A. Romero about cannibalistic, zombie-like ghouls which spawned a franchise that includes five official sequels <span class='red'>meets</span> a 1989 drama film starring Robin Williams as an English teacher who encourages his students to make their lives "extraordinary".
+          WhatIs: Night of the Living Dead Poets Society
+          DailyDouble: true
+        - Answer: A 1995 war film (based on history but full of inaccuracies) directed by, produced by, and starring Mel Gibson depicting the First War of Scottish Independence from England <span class='red'>meets</span> an 1899 novella by Joseph Conrad about a voyage up the Congo River in Africa which ranks 67th on Modern Library's list of the 100 best novels in English of the twentieth century.
+          WhatIs: Braveheart of Darkness
+
+    - Name: Big Butts<sup>JK</sup>
+      Description: |
+        This category was inspired by the episode "Big Butt Politics" of the new NPR podcast, Anything for Selena, where host Maria Garcia shares her theory that there is a direct historical lineage from Selena to the mainstream obsession of large butt culture.
+      Trivia:
+        - Answer: Maria Garcia credits Selena's success as a precursor to this 39-year-old who leads the celebration of big butts. She rose to fame in the late 1990s as the lead singer of Destiny's Child with the 2002 hit  "Bootylicious", earned six Grammy Awards for her solo career in 2010 (the most Grammys won by a female artist in one night), and was the voice of Nala in the 2019 remake of "The Lion King".
+          WhoIs: Beyonc&#x00E9;
+        - Answer: Selena's body positive influence permeated even white culture, including this 40-year-old media personality, socialite, model, and actress who gained notoriety after the release of her 2002 sex tape and "broke the internet" with her 2014 Paper Magazine dual cover photos (one with her bare butt shined and polished; the other with her opening a bottle of champagne which sprays behind her into a glass resting on her derriere.)  Online traffic to the pictures the day after their release measured nearly 1% of the entire web browsing activity in the US.
+          WhoIs: Kim Kardashian
+        - Answer: The director of the biopic "Selena" emphasized that the chosen actress (out of 21,000 people who tried out, the largest search since the casting of Scarlett O'Hara) had to have the right body, specifically a big butt; famously Selena's mom approved of the choice, telling her, "You have a big butt like Selena."
+          WhoIs: Jennifer Lopez
+        - Answer: Maria Garcia argues that the obsession with large rear ends in hip-hop culture is still strong with idols who were influenced by Selena, like this Latinx rapper, born Belcalis Marlenis Alm&#xE1;nzar in 1992, best known for her 2020 song "WAP" featuring vocals by rapper Megan Thee Stallion.
+          WhoIs: Cardi B
+        - Answer: Maria Garcia quotes the lyrics of the 1992 song "Baby Got Back" by this rapper (born Anthony L. Ray in 1963) including a skit at the top of the song, that playfully poked fun at white beauty standards, in which a white woman famously says, "Oh, my, God, Becky, look at her butt. It is so big... she's just so, Black!"
+          WhoIs: Sir Mix-a-Lot
+
+    - Name: Sporty Spice<sup>JK</sup>
+      Description: |
+        This category features sports-themed idioms.
+      Trivia:
+        - Answer: This sports idiom means that it's your decision or responsibility now, or it is up to you to make the next move and comes from tennis, where it means it's your turn to use your racket to serve or to return.
+          WhatIs: The ball is in your court
+        - Answer: This sports idiom means to have enormous success or to perform extremely well and comes from getting a home run in baseball.
+          WhatIs: Hit it out of the park
+        - Answer: This sports idiom means that you are not the proper match for someone, often because the other person is considered superior in some way (more attractive, wealthy, famous, etc) and comes from baseball where players are divided into the majors and minors depending on their talent.
+          WhatIs: Out of your league
+        - Answer: This sports idiom means to make a mistake or mishandle things, and comes from the rules of many sports where doing this is a serious mistake, and results in things like losing an “out” in baseball or making an uncompleted pass in football.
+          WhatIs: Drop the ball
+        - Answer: This sports idiom means to unfairly target one's weakness or vulnerability with the intention of hurting someone and comes from boxing where doing this is prohibited.
+          WhatIs: To hit below the belt
+
+    - Name: Patent Pending<sup>JK</sup>
+      Description: |
+        This category features US Patents granted to Black men in celebration of Black history month.
+      Trivia:
+        - Answer: In 1986, U.S. Patent No. 4,591,071 was granted to Lonnie Johnson for <span class='red'>this squirt gun</span> that has generated more than a $1 billion in sales and has consistently been among the world's top 20 best-selling toys every year since 1992.
+          WhatIs: Super Soaker
+        - Answer: In 1843, US Patent No. 3,237 was granted to Norbert Rillieux, for revolutionizing (making safer) the refining process of <span class='red'>this sweet ingredient</span> that once had to be dangerously boiled in huge open kettles and transferred from one boiling kettle to another.
+          WhatIs: Sugar Cane
+        - Answer: In 1923, US Patent No. 1,475,074 was granted to Garrett Morgan for <span class='red'>this object</span> invented “to be positioned adjacent the intersection of two or more streets…for directing the flow of” automobiles.
+          WhatIs: Traffic Light
+        - Answer: In 1821, US Patent No. 3,306X was granted to Thomas Jennings, who became the first Black man to be granted a patent, for inventing a process for <span class='red'>this kind of laundering</span> that uses a solvent other than water. (The patent is one of about 10,000 that were lost in a fire in 1836 and is referred to as an X-Patent).
+          WhatIs: Dry Cleaning
+        - Answer: In 1899, US Patent No. 31,549 was granted to Elijah McCoy, who obtained 57 patents over his lifetime, for <span class='red'>this object</span>, a turtle shell shaped device with a pipe projecting from the rear end terminating in a hose connection. “The design as a whole is obviously a tasteful and attractive one for a device of this character and is of a shape to be easily moved about a lawn.”
+          WhatIs: Sprinkler
