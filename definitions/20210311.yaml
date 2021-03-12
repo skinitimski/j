@@ -1,0 +1,191 @@
+Final:
+  Category: The Doctor's Office<sup>CT</sup>
+  Answer: "Fill in the blanks: \"The <span class='red'><u>blank 1</u></span> doctor was <span class='red'><u>blank 2</u></span> <span class='red'><u>blank 3</u></span> to operate, because she had <span class='red'><u>blank 4</u></span> <span class='red'><u>blank 5</u></span>.\"<br/><br/>The letters used to fill in blank 1 are the same letters used to fill in blanks 2 and 3; keep the letters in order but add a space to create two words.<br/><br/>The letters used to fill in blank 1 are also the same letters used to fill in blanks 4 and 5; again keep the letters in order but add a space in a different place to create two new words."
+  Question: |
+     The <span class='red'>notable</span> doctor was <span class='red'>not able</span> to operate, because she had <span class='red'>no table</span>.
+Rounds:
+  - Categories:
+
+    - Name: Dirty Minds (Cock Edition)<sup>JK</sup>
+      Description: |
+        This category features common words with the syllable "cock".
+      Trivia:
+        - Answer: A breed of small dog with a variety of coat colors and longer hair on the legs and ears, originally developed in England to hunt woodcock.
+          WhatIs: Cocker Spaniel
+        - Answer: Any of various smalls parrots with an erectile crest and predominantly white, grey, or black plumage with a round orange area on both ears native to Australia, now the second most popular caged pet bird.
+          WhatIs: Cockatiel ('tiels are smaller than 'toos and are a different genus/species)
+        - Answer: Slang for being drunk; intoxicated. Also, having a permanent deviation in the direction of the gaze. Also, topsy-turvy, absurd, ridiculous, crazy, irrational, askew, or crooked.
+          WhatIs: Cockeyed
+        - Answer: Originally meaning "a small, misshapen egg" in 1362, Chaucer used the word to mean indulged or pampered in The Canterbury Tales (1386). By 1520, it was used to mean a native of London, esp. a working-class person from the East End, or the distinctive dialect of English used in those areas of London.
+          WhatIs: Cockney
+        - Answer: An absurd, muddled, ridiculous, or crazy person, situation, or thing. Comes from an alteration of the word decalcomania, a decorative painting, decal, or transfer esp. one applied to the skin.
+          WhatIs: Cockamamie
+
+    - Name: Cinelistics<sup>JK</sup>
+      Description: |
+        This category features phrases coined by or popularized by films.
+      Trivia:
+        - Answer: This is a Swahili phrase which roughly translates to "no worries" and was popularized by the "Lion King" in 1994.
+          WhatIs: Hakuna Matata
+        - Answer: This word used to express delight or satisfaction was originally created by "Howdy Doody" in the 50's, later became associated with surfing culture, and then achieved world-wide fame after being featured regularly as Michelangelo's catchphrase on the "Teenage Mutant Ninja Turtles".
+          WhatIs: Cowabunga
+        - Answer: This is a Vulcan technique for sharing thoughts, experiences, memories, and knowledge with another individual, which was first mentioned during a 1966 episode of the original "Star Trek" series.
+          WhatIs: Mind-Meld
+        - Answer: This is a fictional measurement of power used in the "Back to the Future" movies. About 1.21 of them were required to power the Flux capacitor to travel back and forth through time.
+          WhatIs: Jigawatt
+        - Answer: This 1989 film about two teenagers who utilize time travel in order to complete a history report stars Keanu Reeves, Alex Winter and George Carlin and popularized the phrase "Party On Dude".
+          WhatIs: Bill & Ted's Excellent Adventure
+
+    - Name: Maiden Names<sup>JK</sup>
+      Description: |
+        This category features companies that used to be known by a different name.
+      Trivia:
+        - Answer: Originally founded in 1965 as "Pete's Super Submarines" in Connecticut (named after the owner's friend who lent him $1000 to open the restaurant), renamed to "Doctor's Associates Inc" in 1966 (named after the goal of the owner to earn enough from the business to pay tuition for medical school), then renamed to what we know it as today in 1967, this company is the largest fast food chain worldwide.
+          WhatIs: Subway
+        - Answer: Hugh Hefner worked as circulation promotions manager for "Children's Activities" magazine until starting his own magazine in 1953, originally known as "Stag Party", but another magazine named "Stag" ordered a cease and desist. Hefner considered the names "Top Hat", "Gentleman", "Sir", "Satyr", "Pan" and "Bachelor" before settling on what we know it as today.
+          WhatIs: Playboy
+        - Answer: In 1893, a North Carolina pharmacist named Caleb Bradham developed a new soft drink called "Brad's Drink". In 1898, it was renamed to reference the fact that it could relieve indigestion. It is now the second most popular carbonated soft drink brand in the world.
+          WhatIs: Pepsi-Cola (advertised to relieve dyspepsia)
+          DailyDouble: true
+        - Answer: This big-box store, founded in 1966, was originally called "Sound of Music", as it specialized in high quality audio equipment. In 1981, their largest and most profitable store was hit by a tornado and held a "Tornado Sale" of damaged and excess stock in the parking lot. It made more money during the four-day sale than it did in a typical month, so in 1983 the store was renamed after what the sale offered.
+          WhatIs: Best Buy
+        - Answer: Founded as "Rent-a-Car Inc" in 1918, renamed to "Drive-Ur-Self" in 1923, then renamed to what we know it as today in 1961,  this is the second-largest US car rental company by sales, locations, and fleet size, and operates 10,200 locations internationally.
+          WhatIs: Hertz
+
+    - Name: Mustelid Madness<sup>GG</sup>
+      Description: |
+        This category written by our very own Genevi&#xE8;ve Gagn&#x00E9; features different types of mustelid's (mammals of the weasel family).
+      Trivia:
+        - Answer: This mustelid is the domesticated form of the European polecat.  The history of the mustelid's domestication is uncertain, but it is likely that they have been domesticated for at least 2,500 years and were used by the Romans for hunting.  Caesar Augustus sent some of these mustelids to the Balearic Islands to control the rabbit plagues in 6 BC.  They are still used for hunting rabbits in some parts of the world, but increasingly they are kept only as pets.  Its name is derived from the Latin furittus, meaning "little thief", a likely reference to its penchant for secreting away small items.  Being so closely related to polecats, they easily hybridize with them, and this has occasionally resulted in feral colonies of hybrids that have caused damage to native fauna, especially in New Zealand.
+          WhatIs: Ferret
+        - Answer: This large, stocky mustelid weighs an average of 20-25 pounds and can be found all over Africa, Southwest Asia, and the Indian subcontinent.  It is notorious for its strength, ferocity and toughness. It is known to savagely and fearlessly attack almost any other species when escape is impossible, reportedly even repelling much larger predators such as lion and hyena.  Bee stings, porcupine quills, and animal bites rarely penetrate their skin.  If horses, cattle, or buffalo intrude upon their burrow, it will even attack them.  This fearless behavior gave rise to a popular YouTube meme video in 2011 where someone narrates over Nat Geo Wild footage while talking about how much this crazy, nastyass animal just doesn't care.
+          WhatIs: Honey Badger
+        - Answer: This large, seafaring mustelid is a marine mammal native to the coasts of the northern and eastern North Pacific Ocean. Adults typically weigh between 30-100 pounds, making them the heaviest mustelids, but among the smallest marine mammals. Unlike most marine mammals, this creature's primary form of insulation is an exceptionally thick coat of fur, the densest in the animal kingdom.  Although it can walk on land, it is capable of living exclusively in the ocean.  They are a classic example of a keystone species; their presence affects the ecosystem more profoundly than their size and numbers would suggest.  They keep the population of sea urchins in check, who graze on the lower stems of kelp, causing it to drift away and die. Loss of the habitat and nutrients provided by kelp forests leads to profound cascade effects on the marine ecosystem.  It is thought that they may help mitigate effects of climate change by this cascading dietary influence.
+          WhatIs: Sea Otter
+        - Answer: This is the largest land-dwelling mustelid, coming in around 20-30 pounds. It is a stocky and muscular carnivore, more closely resembling a small bear than other mustelids. A solitary animal, it has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger than itself.  This creature can be found mostly in remote reaches of the Northern boreal forests and subarctic and alpine tundra of the Northern Hemisphere.  In pop culture, this creature is the University of Michigan's mascot and the namesake of Marvel Comics character James "Logan" Howlett, who was given the name because of his short stature, keen animal senses, and ferocity.
+          WhatIs: Wolverine
+        - Answer: This tiny mustelid, averaging between only 6 to 9 ounces, is the subject of a famous Leonardo da Vinci oil painting, where one of an unusually large size rests in a lady's arms.  In Irish mythology, they were viewed anthropomorphically as animals with families, which held rituals for their dead.  They were also viewed as noxious animals prone to thieving, and their saliva was said to be able to poison a grown man.  To encounter one when setting out for a journey was considered bad luck, but one could avert this misfortune by greeting the mustelid as a neighbor.
+          WhatIs: Stoat (or ermine)
+
+    - Name: Tip o' the Hat<sup>K</sup>
+      Description:
+        This category features familiar types of hats.
+      Trivia:
+        - Answer: Literally Spanish for the word "hat", this is a wide-brimmed hat from Mexico. It is prominently featured in Mariachi garb.
+          WhatIs: Sombrero
+        - Answer: This hat was popularly worn by Indiana Jones, Freddy Krueger, Carmen Sandiego, and nearly every character of Mad Men. It features a wide brim and pinches on both front sides, and can be made of nearly any material.
+          WhatIs: Fedora
+        - Answer: This cylindrical, felt hat, probably of Turkish origin, is usually red with a black tassle. It was worn by the character Mustafa (played by Will Ferrell) in the first Austin Powers movie.
+          WhatIs: Fez
+        - Answer: Traditional headwear found in India, Asia, and the Middle East, consisting of wound cloth, generally used for religious observance. They come in many shapes, sizes, and colors.
+          WhatIs: Turban
+        - Answer: A brand of cowboy hat, and the name of its company, the world's largest hatmaker known for hats such as the "Boss of the Plains" and the "Ten Gallon" model. The term "ten gallon" has nothing to do with the hat's liquid capacity, but derives from the Spanish word <em>gal&#xF3;n</em>, meaning <em>braid</em> -- ten indicating the number of braids used in the band of the hat. (given its size, it <em>may</em> actually hold ten gallons!)
+          Question: What is <span class='red'>Stetson</span>?<br /><img src='https://upload.wikimedia.org/wikipedia/commons/6/6d/Tommixportrait.jpg'></img>
+
+  - Homonyms:
+      - Homonym: Roll
+        Definitions:
+          - To have sex with.
+          - Prolonged or continuous rumbling sound of thunder.
+          - A register or list of people.
+          - Protruding mass of excess flesh or fat on the body.
+          - To throw a die or dice.
+      - Homonym: Poke
+        Definitions:
+          - To have sex with.
+          - To inquire or pry into.
+          - A poisonous, herbaceous perennial plant with dark clusters of berries.
+          - To stoke or stir up (a fire).
+          - To thrust (one's finger, head, nose, etc.) into something.
+      - Homonym: Muff
+        Definitions:
+          - The vagina.
+          - A foolish, stupid, feeble, or incompetent person.
+          - (Sport) To miss (a catch, a ball), esp. in cricket; to play (a shot, a game, etc.) badly.
+          - (Theatre) To confuse or forget (one's lines); to miss (a cue).
+          - A covering, often of fur and usually of cylindrical shape with open ends, into which both hands may be placed for warmth.
+      - Homonym: Box
+        Definitions:
+          - The vagina.
+          - An evergreen shrub or small tree native to Europe with very hard wood.
+          - Any of various audio or audio-visual devices, such as a gramophone, radio, or television set.
+          - An exclusive, enclosed seating area within a theatre auditorium.
+          - A receptacle of any size, typically with four sides and a lid, used for containing, storing, or transporting things.
+      - Homonym: Kitty
+        Definitions:
+          - The vagina.
+          - A prison, jail, or lock-up.
+          - Additional cards dealt face down in some card games, including Euchre.
+          - The total amount of prize money which is bet in a gambling game.
+          - The young of the cat.
+      - Homonym: Hole
+        Definitions:
+          - The vagina.
+          - A position from which it is difficult to escape.
+          - Slang for solitary confinement.
+          - An excavation made in the ground for habitation by an animal.
+          - The cavity into which the ball is driven in golf.
+
+  - Categories:
+
+    - Name: Dirty Words (Tit edition) <sup>JK</sup>
+      Description: |
+        This category features common words with the syllable "tit".
+      Trivia:
+        - Answer: This word means "to excite or stimulate (someone's taste, senses, imagination, etc)" and comes from a Latin word meaning to tickle or to stimulate sensually. It was first used (to mean sexual pleasure) in print in the 1871 issue of the Wisconsin State Medical Society journal, "She attributed it all to the amorous passions of her husband, who, in order to engender a like desire in her, would excite her genital organs, I presume by ______ her clitoris."
+          WhatIs: Titillate
+        - Answer: In Chemistry, this word means to determine the concentration of a solution in order to create the desired reaction. In Medicine, it means to continuously measure and adjust the balance of a dose.
+          WhatIs: Titrate
+        - Answer: The "tufted" variety of this small crested grey and white bird is native to areas east of the Mississippi, from lower Canada to the Everglades, including at Klop Farm. Its song is usually described as a whistled peter-peter-peter.
+          WhatIs: Titmouse
+        - Answer: This is a dot or point used in writing or printing, such as the dot over the letter i. Figuratively, it is used to refer to a very small part of something. In 1553, it was the word for the dots on a die (though they are now called pips).
+          WhatIs: Tittle
+        - Answer: This bird is a year-round resident in shrubbery of western North America, ranging from Vancouver to Guatemala; it is gray-brown, with a large head, a short neck, a long tail, and a short stubby bill, and forages for small insects and spiders in mixed-species feeding flocks including chickadees and warblers.
+          WhatIs: Bushtit
+
+    - Name: Dance Dance Revolution <sup>JK</sup>
+      Description: |
+        This category features movies with dancing.
+      Trivia:
+        - Answer: A 2000 cheerleading film starring Kirsten Dunst with 5 sequels that was made into a musical in 2001 with songs by Lin-Manuel Miranda. The film pushed the 'sex aspects of cheerleading' without losing a PG-13 rating, and to avoid the use of stunt doubles, all the actors were required to participate in a four-week-long cheerleading camp to learn the dance moves.
+          WhatIs: Bring It On
+        - Answer: This 2006 computer-animated jukebox musical, featuring the voices of Elijah Wood, Robin Williams, Brittany Murphy, Hugh Jackman, and Nicole Kidman, tells the story of an emperor penguin chick named Mumble who is frequently ridiculed and eventually exiled because he is unable to sing (presumably because his egg was dropped before he was born) but can tap dance.
+          WhatIs: Happy Feet
+        - Answer: A 2001 film produced by MTV starring Julia Stiles and Sean Patrick Thomas as a teenage interracial couple in Chicago who work together to train for a dance audition for Julliard with the tagline "the only person you need to be is yourself".
+          WhatIs: Save the Last Dance
+          DailyDouble: true
+        - Answer: A 2004 American dance comedy-drama film that follows the competitive world of street dancing where crews battle each other for money and respect. It was parodied in an eighth-season episode of the animated series South Park.
+          WhatIs: You Got Served
+        - Answer: "A 1997 film about a young nightclub dishwasher who becomes a popular star of pornographic films, starring Mark Wahlberg, Julianne Moore, Burt Reynolds, Don Cheadle, and Philip Seymour Hoffman with a soundtrack of 70's music and several great disco dance scenes. (Fun fact: Wahlberg had a prosthetic penis made for the movie to mimic porn star Dirk Diggler's gigantic penis (oft-mentioned as 13 inches long)."
+          WhatIs: Boogie Nights
+
+    - Name: That's What She Said<sup>JK</sup>
+      Description: |
+        This category features quotes by famous women.
+      Trivia:
+        - Answer: This 67-year-old made history with a legendary talk show (the highest-rated program of its kind), launched her own television network, became the nation's first African-American woman billionaire, and was awarded both an honorary degree by Harvard University and the Presidential Medal of Freedom. She wrote in her collection of life lessons, "What I Know For Sure", "Step out of the history that is holding you back. Step into the new story you are willing to create."
+          WhoIs: Oprah Winfrey
+        - Answer: This 50-year-old comedian, known for her portrayal of Sarah Palin on SNL and for creating the comedy series 30 Rock, said in her autobiography, "Bossypants", "You can't be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute."
+          WhoIs: Tina Fey
+        - Answer: "This now 75-year-old country music star burst into song last week as she received her first dose of the Moderna Covid vaccine that she helped to fund (she donated $1 million to Vanderbilt University Medical Center near her home in Nashville, TN). To the tune of \"Jolene\", which she wrote and recorded in 1973, she sang: \"Vaccine, vaccine, vaccine, vaccine, I'm begging of you, please don't hesitate. Vaccine, vaccine, vaccine, vaccine, because once you're dead, then that's a bit too late.\""
+          WhoIs: Dolly Parton
+        - Answer: She served as the First Lady of the United States from 1933 to 1945, during her husband's record breaking four terms in office, making her the longest-serving First Lady. She was controversial at the time for her outspokenness, particularly on civil rights for African Americans. In a 1948 letter to Harry Truman (who took over as President after her husband's death) she wrote, "I cannot believe that war is the best solution. No one won the last war, and no one will win the next war."
+          WhoIs: Eleanor Roosevelt
+        - Answer: "This now 51-year-old television producer and screenwriter, best known as the creator, head writer, and executive producer of \"Grey's Anatomy\", its spin-off \"Private Practice\", and the political thriller series \"Scandal\", wrote in her memoir, \"Year of Yes: How to Dance It Out, Stand in the Sun, and Be Your Own Person\", \"Happiness comes from being who you actually are instead of who you think you are supposed to be.\""
+          WhoIs: Shonda Rhimes
+
+    - Name: Tip o' the Fez<sup>GG</sup>
+      Description: |
+        This category written by our very own Genevi&#xE8;ve Gagn&#x00E9; features different styles of famous hats.
+      Trivia:
+        - Answer: Archaeology and art history indicate that headgear similar to the modern version of this hat has been worn since the Bronze Age across Northern Europe and as far south as ancient Crete and Italy, where it was worn by the Minoans, Etruscans and Romans.  The hat's practicality has long made it an item of military, police, and other uniform clothing and can still be seen in widespread military use today.  It was famously worn by both Che Guevara and members of the Black Panther Party.
+          WhatIs: Beret
+        - Answer: This hat is the modern precursor to the "Pannonian cap," military headgear worn by soldiers in the late Roman Empire.  The modern version was invented by milliners in the 1930's and could be made out of wool, velvet, organdy, mink, lynx, fox, or leopard skin.  The leopard variety is also the subject of a satirical 1966 Bob Dylan song.  It was famously worn by both Jackie Kennedy and Meghan Markle.
+          WhatIs: Pillbox Hat
+        - Answer: This hat was said to have been designed in 1849 by London hat-makers Thomas and William, who gave the hat their family name.  It was designed as a special order for gamekeepers who needed close-fitting, low-crowned hats that could protect them from low-hanging branches on horseback.  It was called "the hat that won the West" by American journalist Lucius Beebe, since it was the most popular hat during the American frontier, beating out both the cowboy hat and sombrero in popularity at the time.  It was famously worn by both Charlie Chaplin and comedy duo Laurel & Hardy.
+          WhatIs: Bowler Hat
+        - Answer: This hat is a semi-formal hat of fur felt, characterized by a single dent running down the center of the crown (called a "gutter crown"), a wide silk grosgrain hatband ribbon, a flat brim shaped in a "pencil curl", and a ribbon-bound trim about the edge of the brim.  It is named after the German town that it comes from and originated there as hunting headgear.  It was popularized by Edward VII after he visited the town and brought back a hat of this style.  It was famously worn by Winston Churchill and Al Pacino's character Michael Corleone in 'The Godfather'.
+          WhatIs: Homburg Hat
+        - Answer: This hat is a narrow-brimmed type of hat, once viewed as the "rich man's favored hat", and was frequently seen at the horse races.  It was described as having a "shorter brim which is angled down at the front and slightly turned up at the back" compared to the fedora's "wider brim which is more level".  The hat's name derives from the stage adaptation of George du Maurier's 1894 novel of the same name.  Traditionally it was made from rabbit hair felt, but now is usually made from other materials, such as tweed, straw, heavyweight cotton, wool and wool/nylon blends. The hat reached its zenith of common popularity in the 1960s; the lower head clearance in American automobiles made it impractical to wear a hat with a tall crown while driving.  It was famously worn by both Frank Sinatra and Justin Timberlake.
+          WhatIs: Trilby Hat
+
