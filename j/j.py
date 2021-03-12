@@ -20,6 +20,7 @@ KEY_DEFINITION  = 'definition'
 KEY_DESTINATION = 'destination'
 KEY_FORCE       = 'force'
 
+INDEX          = 'index.html'
 STYLE          = 'style.css'
 FINAL          = 'final.html'
 FINAL_CATEGORY = 'final.category.html'
@@ -57,6 +58,11 @@ def j(definition_path, destination_path, force):
     _render_template(
         join(destination_path, STYLE),
         JINJA_ENV.get_template(STYLE)
+    )
+
+    _render_template(
+        join(destination_path, INDEX),
+        JINJA_ENV.get_template(INDEX)
     )
 
     definition = _read_definition(definition_path)

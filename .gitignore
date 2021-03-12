@@ -5,6 +5,7 @@ venv/
 *.swo
 report.xml
 index.html
+!j/templates/index.html
 __pycache__/
 Pipfile.lock
 build/
