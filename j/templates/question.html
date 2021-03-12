@@ -22,6 +22,13 @@
                 {% endif %}
             </td>
         </tr>
+        {% if 'Image' in trivia %}
+        <tr class="cell">
+            <td class="cell">
+                <img width='800' src="{{ trivia.Image }}"></img>
+            </td>
+        </tr>
+        {% endif %}
         <tr class="cell">
             <td class="cell">
                 <a href="round{{ round_index }}.html">Back to Round {{ round_index }}</a>
