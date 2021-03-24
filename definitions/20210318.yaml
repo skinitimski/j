@@ -1,0 +1,180 @@
+Final:
+  Category: Odd One Out<sup>JK</sup>
+  Answer:  "Name the odd one out:<br /><br />Star, <br />Take, <br />Blow, <br />Spin"
+  WhatIs: The odd one out is <span class='red'>Star</span> (Take Off, Blow Off, Spin Off)
+Rounds:
+  - Categories:
+
+    - Name: Hooked On Monkey Phonics<sup>JK</sup>
+      Description: |
+        This category features homographs, which are words that are spelled the same but have different pronunciations and definitions.
+      Trivia:
+        - Answer: To shut (a door, a box, the eyes). <br />OR<br />A short distance away; nearby.
+          WhatIs: Close (kl&#x014D;z / kl&#x014D;s)
+        - Answer: A drop of limpid fluid secreted by the eye's lachrymal gland. <br />OR<br />To pull asunder by force.
+          WhatIs: Tear (tir / ter)
+        - Answer: A conduit for discharging waste water from houses.<br />OR<br />One who works with a needle and thread.
+          WhatIs: Sewer (so&#x35e;o&#x0259;r / s&#x014D;&#x0259;r)
+        - Answer: An array of food set out on a table for guests or customers to serve themselves. <br />OR<br />To beat, strike, esp. with the hand; to thump, cuff, knock about.
+          WhatIs: Buffet (b&#x0259;f&#x0101; / b&#x0259;f&#x0259;t)
+        - Answer: Remained in a listless, apathetic condition; was gloomy or melancholy. <br />OR<br />A lightweight two-wheeled vehicle with a small engine.
+          WhatIs: Moped (m&#x014D;pt / m&#x014D;ped)
+
+    - Name: Dirty Minds (Cock Edition)<sup>JK</sup>
+      Description: |
+        This category features common words with the syllable "cock".
+      Trivia:
+        - Answer: A male bird with an iridescent greenish-blue head and a very long tail, which can be erected and fanned out to display the feather's classic eye-like markings.
+          WhatIs: Peacock
+        - Answer: Insect with 4,600 different species that originated some 300-350 million years ago and is related to the termite.
+          WhatIs: Cockroach
+        - Answer: "One of the first known written mentions of this generic term for an alcoholic mixed drink appeared in \"The Balance and Columbian Repository\" from Hudson, New York on May 13, 1806 which suggested these ingredients: spirits of any kind, sugar, water, and bitters."
+          WhatIs: Cocktail
+        - Answer: A dog cross-bred since the 1960s from two popular dog breeds (its name is a portmanteau!) as a healthy hypoallergenic companion who's intelligent enough to train easily and hardly sheds.
+          WhatIs: Cockapoo (cocker spaniel &#x2B; poodle)
+          DailyDouble: true
+        - Answer: A small edible marine bivalve mollusc that lives in sandy, sheltered beaches throughout the world with a distinctive rounded shell that is bilaterally symmetrical and often ribbed.
+          WhatIs: Cockle
+
+    - Name: Ode to Joy<sup>JK</sup>
+      Description: |
+        This category was inspired by a webinar hosted by Harvard University with Music Professor Thomas Forrest Kelly and features popular usages of Beethoven's Ninth Symphony.
+      Trivia:
+        - Answer: Beethoven's Ninth Symphony is used throughout <span class='red'>this 1988 Christmas action movie</span> starring Bruce Willis. The song is played by a string quartet at the company Christmas party, is hummed by the antagonist Hans (played by Alan Rickman), and is played by a majestic organ during the opening of the vault.
+          WhatIs: Die Hard
+        - Answer: A question on the January 17, 2001 episode of <span class='red'>this game show</span> hosted by Regis Philben from 2000-2002 was about why the modern compact disc is 74 minutes long, because Sony wanted a CD to be long enough to fit Beethoven's Ninth Symphony on one side of it.
+          WhatIs: Who Wants to Be a Millionaire?
+        - Answer: In <span class='red'>this country</span>, Beethoven's Ninth Symphony is nicknamed "Daiku" or "Big Nine" and is used to ring in the New Year with dozens of performances each year, including one with 10,000 performers that has occurred every year since 1983 at Osaka's Suntory Hall. The song became known and loved after German POWs were heard singing it there during World War I.
+          WhatIs: Japan
+        - Answer: On Christmas Day 1989, Leonard Bernstein conducted an orchestra consisting of people from both West and East Germany playing Beethoven's Ninth Symphony to celebrate <span class='red'>this momentous event</span> that occurred on November 9, 1989. The song symbolized for many Germans a depth of joy for their new found freedom.
+          WhatIs: Fall of the Berlin Wall
+        - Answer: Sebastian, played by Ryan Phillippe, air conducts to a recording of Beethoven's Ninth Symphony while sitting at the indoor pool of his mansion in <span class='red'>this 1999 teen romantic drama film</span>, also starring Reese Witherspoon and Sarah Michelle Gellar.
+          WhatIs: Cruel Intentions
+
+    - Name: R2DWho?<sup>GG</sup>
+      Description: |
+        This category, written by our very own Genevi&#xE8;ve Gagn&#x00E9;, features Sci Fi movies that debuted in the 1970s.
+      Trivia:
+        - Answer: "This 1977 epic space opera film directed by George Lucas remains one of the most financially successful films of all time, and received six Oscars at the 50th Academy Awards: Best Art Direction, Best Costume Design, Best Film Editing, Best Original Score, Best Sound and Best Visual Effects."
+          WhatIs: Star Wars
+          Image: https://images-na.ssl-images-amazon.com/images/I/91SBb7JVjZL._SY445_.jpg
+        - Answer: This 1979 sci-fi film directed by Robert Wise is the first installment in a series of 13 feature films, which are based on a television series of the same name created by Gene Roddenberry.
+          WhatIs: "Star Trek: The Motion Picture"
+        - Answer: This 1977 sci-fi film directed by Steven Spielberg tells the story of an electrical lineman obsessed with unidentified flying objects. The film was nominated for 8 Oscars at the 50th Academy Awards, but lost many of its nominations to Star Wars, including Best Original Score, Best Sound, Best Visual Effects, Best Film Editing, and Best Art Direction.
+          WhatIs: Close Encounters of the Third Kind
+        - Answer: This 1979 sci-fi horror film directed by Ridley Scott and starring Sigourney Weaver, originally titled "Star Beast", was initially a low-budget film, but due to the recent financial success of "Star Wars", Fox decided to invest millions and financed three direct sequels over the next eighteen years.
+          WhatIs: Alien
+        - Answer: This 1973 dystopian thriller film directed by Richard Fleischer and starring Charlton Heston takes place in 2022 where overpopulation, pollution, and climate catastrophe have caused severe worldwide shortages of food, water and housing. The murder of a wealthy businessman ultimately leads investigators to the horrifying discovery that a corporation (whose eponymous name is a mash up of "soy" and "lentil") that control's half what's left of the world's food supply has been using humans (not soy or lentils) as the primary ingredient.
+          WhatIs: Soylent Green
+
+  - Homonyms:
+      - Homonym: Pork
+        Definitions:
+          - To have sex with.
+          - To gain weight.
+          - A coarse, uncultured, stupid, or fat person.
+          - Government funds dispensed by politicians in order to gain favor with constituents.
+          - The flesh of a pig used as food.
+      - Homonym: Finish
+        Definitions:
+          - To have sex with.
+          - The last coat of paint or plaster laid upon a surface.
+          - To kill.
+          - To bring to completion.
+          - The end of a race.
+      - Homonym: Take
+        Definitions:
+          - To have sex with.
+          - To be seized by an illness.
+          - Of a plant, cutting, seed, or crop, to establish itself and begin to grow.
+          - To make (a photograph) with a camera.
+          - In chess, to capture (an opponent's piece) so as to put it out of play.
+      - Homonym: Tap
+        Definitions:
+          - To have sex with.
+          - To open, penetrate, or break into.
+          - To draw off (liquid) from any source.
+          - To secretly record a telephone conversation.
+          - To keep the beat with one's foot.
+      - Homonym: Cockpit
+        Definitions:
+          - Apparently slang for the vagina.
+          - A scene of conflict; a battlefield, a war zone.
+          - The handlebars, manual controls, and instrument panel of a motorcycle.
+          - A temporary or permanent arena in which rooster fights are held.
+          - A compartment for the pilot and crew in an aircraft or spacecraft.
+      - Homonym: Mound (the mons veneris)
+        Definitions:
+          - The vagina (specifically of the Goddess Venus).
+          - A boundary, limit, or obstacle.
+          - An elevation of land caused by the natural burial of a ruined or abandoned city.
+          - A large pile or quantity of something.
+          - The slight hill on which a baseball pitcher stands to pitch.
+
+  - Categories:
+    - Name: Insert a Dick<sup>JK</sup>
+      Description: |
+        This category features titles of common multimedia that were used as episode titles for "3rd Rock from the Sun" by replacing one word with "Dick" (the name of the main character). For example, the December 17, 1997 episode was named "Jailhouse Dick" after "Jailhouse Rock" by Elvis Presley. (I would clue the song and tell you to replace the second word with "Dick".)
+      Trivia:
+        - Answer: This is a 1984 supernatural slasher film written and directed by Wes Craven starring Robert Englund as Freddy Krueger and featuring Johnny Depp in his film debut. <br /><br />Replace the fourth word with "Dick" to name the May 18, 1997 episode of 3rd Rock from the Sun.
+          WhatIs: A Nightmare on Dick Street (A Nightmare on Elm Street)
+        - Answer: This is a self-help book series, featured on the New York Times Best Seller list continuously from 1994-1998, consisting of inspirational true stories about ordinary people's lives. Founders, motivational speakers Jack Canfield and Mark Victor Hansen, named it after their grandmothers' soothing and comfortable cooking. <br /><br />Replace the first word with "Dick" to name the May 1, 2001 episode of 3rd Rock from the Sun.
+          WhatIs: Dick Soup for the Soul (Chicken Soup for the Soul)
+        - Answer: This is a video game show that combines trivia with comedy "where high culture and pop culture collide" with multiple choice questions, wisecracks from the host, and the chance to "screw" an opponent, forcing them to answer a question within ten seconds. (This is also the namesake of the party park sold on many game platforms that includes Quiplash.)  <br /><br />Replace the fourth word with "Dick" to name the February 13, 2001 episode of 3rd Rock from the Sun.
+          WhatIs: You Don't Know Dick (You Don't Know Jack)
+        - Answer: "This is a 1599 comedy play by William Shakespeare; its title has many meanings: it is a play on words with a near-homophone of the word noting, something the characters do a lot of (checking each other out, falling in love/lust, infidelity, etc). It is also a reference to the Elizabethan slang for \"vagina\", an \"O-thing\". <br /><br />Replace the fourth word with \"Dick\" to name the October 13, 1996 episode of 3rd Rock from the Sun."
+          WhatIs: Much Ado About Dick (Much Ado About Nothing)
+          DailyDouble: true
+        - Answer: This is a 1993 biographical film about singer Tina Turner, named after her 1984 song, Turner's most successful single that was her first and only Billboard Hot 100 No. 1 single. <br /><br />Replace the seventh word with "Dick" to name the October 28, 1998 episode of 3rd Rock from the Sun.
+          WhatIs: What's Love Got to Do With Dick? (What's Love Got to Do With It?)
+
+    - Name: Very Knotty<sup>JK</sup>
+      Description: |
+        This category features varieties of knots.
+      Trivia:
+        - Answer: This knot is named after the professionals who use it when preparing and selling fresh cuts of meat, especially for roasting, because it can be tied very quickly and wastes very little string because the knot can be tied while one end is still attached to the coil. <br /><img src="https://www.animatedknots.com/photos/butchers/butchersR9.jpg">
+          WhatIs: Butcher's Knot
+        - Answer: This simple knot is used as a snare to catch small animals. It is often confused with the more complex Hangman's Knot, which is related but more turns are wrapped around the loop. Like the Hangman's Knot, this knot can also be deadly; it should never be tightened around someone's neck because it can bind and critically restrict blood flow. Interestingly, laws in Louisiana and New York prohibit the display of this knot because of its use as a means of intimidation. While the Louisiana Bill specifies the Hangman's Knot version, the New York law does not. <br /><img src="https://www.animatedknots.com/photos/noose/nooseR7.jpg">
+          WhatIs: Noose Knot
+          DailyDouble: true
+        - Answer: This decorative knot with an intricate interlace pattern makes excellent tablemats and hot pads and is most commonly associated with Irish, Scottish, or Welsh traditions. It is also a popular design for tattoos, decorative crosses, and silver jewelry. <br /><img src="https://www.animatedknots.com/photos/celtic/celticR11.jpg">
+          WhatIs: Celtic Knot
+        - Answer: This valuable knot provides a mechanical advantage when being tightened and is used particularly for securing loads, tarps, or sails. It became hugely popular after the release of a YouTube video on September 3rd 2014 by Ylvis (a Norwegian comedy duo who created the song and video "What Does The Fox Say?" with over 990 million views on YouTube) which features a dance to the action of tying the knot and these lyrics, "I know how to tie every kind of knot except one. It's so hard, the greatest knot of all, so flexible and strong. but I do something wrong." <br /><img src="https://www.animatedknots.com/photos/truckers/truckersR11.jpg">
+          WhatIs: Trucker's Hitch
+        - Answer: This knot that is used to shorten a rope or take up slack should be avoided because it is known to fail even when tied correctly.  Boy Scouts used to be required to learn it but due to the use of modern "slippery" synthetic ropes, it is now replaced by a safer and stabler knot, such as the Alpine Butterfly Loop. (Literally, the word means "leg of a fleeced animal".) <br /><img src="https://www.animatedknots.com/photos/sheepshank/sheepshankR8.jpg">
+          WhatIs: Sheepshank
+
+    - Name: Seven Degrees of Law & Order<sup>JK</sup>
+      Description: |
+        This category is inspired by Katie's theory that all actors are connected within 7 degrees of actors who were featured in episodes of Law & Order.
+      Trivia:
+        - Answer: Before starring in "My So Called Life" and "Romeo &#x2B; Juliet", this then 13 now 42-year-old actress appeared for the first time on television in the 1992 episode of Law & Order, "Skin Deep" as Tracy Brandt, the daughter of a divorced mom who is suspected of killing a fashion photographer.
+          WhoIs: Claire Danes
+          Image: https://img.cinemablend.com/filter:scale/quill/0/e/4/8/2/4/0e4824a6f6312ecab7761e9a678547e70edaeb29.jpg?mw=600
+        - Answer: After starring in "Dawson's Creek" (1998-2003), this then 35 now 44-year-old actor takes a 180-degree turn from sweet Dawson Leery to creepy Sean Albert, who takes advantage of teen girls searching for their biological fathers online, including the daughter of his ex-girlfriend, in the 2012 episode of Law & Order, "Father Dearest".
+          WhoIs: James Van Der Beek
+          Image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-154429936-1525125675.jpg?crop=1xw:1xh;center,top&resize=600:*
+        - Answer: After starring in "Clarissa Explains It All" (1991-1994) and "Sabrina the Teenage Witch" (1996-2003), this then 31 now 45-year-old actress played high school teacher Sarah Trent, who is accused of raping one of her male students who turns out was the one who raped her and blamed it on his brain disorder making him obsessed with sex, in the 2007 episode of Law & Order, "Impulsive".
+          WhoIs: Melissa Joan Hart
+          Image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-140625958-1525127090.jpg?crop=1xw:1xh;center,top&resize=600:*
+        - Answer: After starring in "I Know What You Did Last Summer" (1997) and "Can't Hardly Wait" (1998), this then 31 now 42-year-old actress plays Vicki Sayers, a woman who tells detectives she had been raped for the fourth time in 15 years by the same man, who finally gets caught and convicted, in the 2010 episode of Law & Order, "Behave".
+          WhoIs: Jennifer Love Hewitt
+          Image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jenniferlovehewitt2-1525123894.jpg?crop=1xw:1xh;center,top&resize=600:*
+        - Answer: After starring in "Lizzie McGuire" (2001-2004), this then 22 now 33-year-old played Ashlee Walker, a young and seemingly irresponsible mother who takes revenge on the family of the unvaccinated child who gave her daughter the measles which killed her, in this 2009 episode of Law & Order, "Selfish".
+          WhoIs: Hilary Duff
+          Image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hilaryduff-1525123786.jpg?crop=1xw:1xh;center,top&resize=600:*
+
+    - Name: C3PWho?<sup>GG</sup>
+      Description: |
+        This category, written by our very own Genevi&#xE8;ve Gagn&#x00E9;, features lesser known Sci Fi movies that debuted in the 1970s.
+      Trivia:
+        - Answer: This 1976 sci-fi film directed by Michael Anderson and starring Farrah Fawcett depicts a utopian future society on the surface, but is actually a dystopia where population and resources are controlled by killing everyone who reaches the age of 30. Gene Siskel gave the film zero stars, calling it "unquestionably the worst major motion picture I've seen this year."
+          WhatIs: Logan's Run
+        - Answer: "This 1974 sci-fi film directed by John Boorman stars a young Sean Connery in a skimpy red outfit. It depicts a post apocalyptic world where barbarians worship an eponymous stone god who has the power to grant either death or eternal life and declares in the opening scene: \"The gun is good! The penis is evil!\". The director was inspired to write it after his adaptation of J.R.R. Tolkein's \"Lord of the Rings\" was declined."
+          WhatIs: Zardoz
+        - Answer: This 1976 sci-fi film directed by Nicolas Roeg follows an extraterrestrial, played by David Bowie, who crash lands on Earth seeking a way to ship water to his planet, which is suffering from a severe drought, but finds himself at the mercy of human vices and corruption.  Bowie later stated in an interview that at the time he was doing a lot of cocaine and felt as alienated as his character, calling it "a good exhibition of somebody literally falling apart in front of you."
+          WhatIs: The Man Who Fell To Earth
+        - Answer: This 1979 Russian-language Soviet sci-fi film directed by Andrei Tarkovsky tells the story of an expedition led by a figure that shares the film's name, who takes his two clients to a mysterious restricted site known simply as the "Zone", where there supposedly exists a room which grants a person's innermost desires. The film (and the book, Roadside Picnic, that it is very loosely based on) has inspired many other franchises, such as Metro and Westworld, and currently sits at a 100% rating on Rotten Tomatoes.
+          WhatIs: Stalker
+        - Answer: This 1972 Russian-language Soviet sci-fi film was also directed by Andrei Tarkovsky, and is one of three different films based on Stanislaw Lem's 1961 novel of the same name (none of which Lem is reported to like). Nonetheless, this film's influence can be seen in "Inception" and "Event Horizon", among others. In 2002, Steven Soderbergh wrote and directed an American adaptation of this film, starring George Clooney.
+          WhatIs: Solaris
