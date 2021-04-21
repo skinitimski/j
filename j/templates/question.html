@@ -22,11 +22,21 @@
             </td>
         </tr>
         {% if 'Image' in trivia %}
+        {% if trivia.Image | is_list %}
+        {% for image in trivia.Image %}
+        <tr class="cell">
+            <td class="cell">
+                <img width='800' src="{{ image }}"></img>
+            </td>
+        </tr>
+        {% endfor %}
+        {% else %}
         <tr class="cell">
             <td class="cell">
                 <img width='800' src="{{ trivia.Image }}"></img>
             </td>
         </tr>
+        {% endif %}
         {% endif %}
         <tr class="cell">
             <td class="cell">

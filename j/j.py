@@ -30,6 +30,8 @@ END            = 'end.html'
 
 JINJA_ENV = Environment(loader=PackageLoader('j'))
 
+JINJA_ENV.filters['is_list'] = lambda value: isinstance(value, list)
+
 TEMPLATE_ROUND               = JINJA_ENV.get_template('round.html')
 TEMPLATE_ROUND_HOMONYMS      = JINJA_ENV.get_template('round.homonyms.html')
 TEMPLATE_DAILYDOUBLE         = JINJA_ENV.get_template('dailydouble.html')
