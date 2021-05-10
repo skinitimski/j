@@ -179,7 +179,7 @@ def _render_homonyms(homonyms, round_index, round_count, destination_path):
             TEMPLATE_HOMONYM_ANSWER,
             round_index=round_index,
             homonym_index=homonym_index,
-            homonym=homonym.Homonym,
+            homonym=homonym,
             last_definition=last_definition
         )
 

@@ -1,6 +1,7 @@
 <html>
 <head>
-    <title>{{ homonym }}</title>
+    <title>{{ homonym.Homonym }}</title>
+    <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 </head>
@@ -13,9 +14,16 @@
         </tr>
         <tr class="cell">
             <td class="cell">
-                <span style="font-size: 72pt" class='red'>{{ homonym }}</span>
+                <span style="font-size: 72pt" class='red'>{{ homonym.Homonym }}</span>
             </td>
         </tr>
+        {% if 'Description' in homonym %}
+        <tr class="cell">
+            <td class="cell">
+                <span>{{ homonym.Description }}</span>
+            </td>
+        </tr>
+        {% endif %}
         <tr class="cell">
             <td class="cell">
                 <a href="round{{ round_index }}.html">Back to Round {{ round_index }}</a>
@@ -29,5 +37,4 @@
     </table>
 </body>
 </html>
-
 
